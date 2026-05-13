@@ -19,6 +19,19 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+## Journal Articles
+
+{% bibliography --query @*[type=journals] --sort_by year --order descending %}
+
+## Book Chapters
+{% bibliography --query @*[type=bookchapters] --sort_by year --order descending %}
+
+## Conference Proceedings
+
+{% bibliography --query @*[type=proceedings] --sort_by year --order descending %}
+
+## Manuscripts
+
+{% bibliography --query @*[type=manuscripts] --sort_by year --order descending %}
 
 </div>
