@@ -3,7 +3,7 @@ layout: page
 title: Puzzles in Turki(c)/(sh)
 description: Turkish, Sakha, verb doubling, plural possession, grammatical variation
 importance: 6
-img: 
+related_publications: true
 category: research
 ---
 
