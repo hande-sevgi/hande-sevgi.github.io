@@ -17,20 +17,28 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="type">
 
-## Journal Articles
+
+
+Journal Articles
 
 {% bibliography --query @*[type=journals] --sort_by year --order descending %}
 
-## Book Chapters
+
+
+Book Chapters
 {% bibliography --query @*[type=bookchapters] --sort_by year --order descending %}
 
-## Conference Proceedings
+
+
+Conference Proceedings
 
 {% bibliography --query @*[type=proceedings] --sort_by year --order descending %}
 
-## Manuscripts
+
+
+Manuscripts
 
 {% bibliography --query @*[type=manuscripts] --sort_by year --order descending %}
 
