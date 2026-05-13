@@ -73,7 +73,8 @@ cv:
         authors:
           - Hande Sevgi
         publisher: "Proceedings of the Workshop on Turkic and Languages in Contact with Turkic"
-        summary: "6"
+        releaseDate: 2022
+        summary: "6(1)"
 
     Experience:
       - company: Harvard University
@@ -107,10 +108,13 @@ cv:
 
       - title: Student Recognition of Teaching
         awarder: Harvard Kenneth C. Griffin Graduate School of Arts and Sciences
+        date: 2022
         summary: "Awarded for Ling 98A, Tutorial Head Instructor Fall 2022"
 
       - title: Certificate of Distinction in Teaching
         awarder: Harvard University
+        date: 2021
+        date: 2022
         summary: "Awarded for Ling 83, Spring 2022 and Ling 104, Fall 2021"
 
     Projects:
