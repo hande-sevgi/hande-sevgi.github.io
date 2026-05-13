@@ -32,6 +32,18 @@ jobs:
           ruby-version: "3.3.5"
           bundler-cache: true
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install system and Python dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+          python -m pip install --upgrade pip
+          python -m pip install jupyter nbconvert
+
       - name: Build with Jekyll
         run: |
           export JEKYLL_ENV=production
@@ -42,7 +54,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
-
+          
   deploy:
     environment:
       name: github-pages
