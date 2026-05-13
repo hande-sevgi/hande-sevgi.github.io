@@ -2,7 +2,6 @@
 layout: page
 title: Manner, Negation, and Focus
 description: Event structure, manner, and the interpretation of negation and focus
-img: 
 importance: 2
 category: research
 related_publications: true
