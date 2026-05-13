@@ -3,7 +3,7 @@ layout: page
 title: Word order and definiteness in sign languages
 description: Word order, definiteness, intensionality, TİD, ASL
 importance: 5
-img:
+related_publications: true
 category: in progress
 ---
 
