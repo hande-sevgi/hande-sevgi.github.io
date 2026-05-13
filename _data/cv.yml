@@ -1,0 +1,178 @@
+cv:
+  name: Hande Sevgi
+  label: Ph.D. in Linguistics
+  email: handesevgi@g.harvard.edu
+  location: Cambridge, MA
+  image: ""
+  social_networks:
+    github_username: hsevgi
+    scholar_userid: vQjR-WcAAAAJ
+    linkedin_username: hande-sevgi-9398a375/
+
+  sections:
+    Education:
+      - institution: Harvard University
+        location: Cambridge, MA
+        area: Linguistics
+        studyType: PhD
+        start_date: 2019
+        end_date: 2026
+        highlights:
+          - "Dissertation: Manner Modification Across Modalities: Insights from Gesture, Sign, and Spoken Language"
+          - "Committee: Kathryn Davidson, Jonathan David Bobaljik, and Kathryn Franich"
+
+      - institution: Boğaziçi University
+        location: Istanbul, Türkiye
+        area: Linguistics
+        studyType: MA
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - "Thesis: The Impact of Age of Acquisition on Structure: A Study on Alignment in Turkish Sign Language"
+          - "Advisor: Kadir Gökgöz"
+
+      - institution: Boğaziçi University
+        location: Istanbul, Türkiye
+        area: Translation and Interpreting Studies
+        studyType: BA
+        start_date: 2009
+        end_date: 2014
+
+    Publications:
+      - title: "Classifiers, Argument Expression, and Age of Acquisition Effects in Turkish Sign Language"
+        authors:
+          - Hande Sevgi
+          - Kadir Gökgöz
+        publisher: Sign Language & Linguistics
+        releaseDate: 2023
+        summary: "26(1). DOI: 10.1075/sll.21006.sev"
+
+      - title: "One root to build them all: Roots in sign language classifiers"
+        authors:
+          - Hande Sevgi
+        publisher: Proceedings of WCCFL
+        releaseDate: 2024
+        summary: "39(2), 393–400"
+
+       - title: Age of acquisition effects in zero-anaphora comprehension in Turkish Sign Language.
+         authors: Hande Sevgi & Kadir Gökgöz
+         releaseDate: 2024
+         publisher: Proceedings of Boston University Conference on Language Development
+         summary: 48 (2), pp. 481-493.
+
+      - title: Plural Possession in Turkish and Sakha
+        authors: Ian Kirby & Hande Sevgi
+        releaseDate: 2023
+        publisher: Proceedings of the Workshop on Turkic and Languages in Contact with Turkic
+        summary: 7 (1), pp. 73-87
+
+      - title: Verb doubling in Turkish: Evidence from Trabzon dialect
+        authors: Hande Sevgi
+        publisher: Proceedings of the Workshop on Turkic and Languages in Contact with Turkic
+        summary: 6
+        
+    Experience:
+    - company: Harvard University
+        position: Doktoral Researcher
+        start_date: 2019-08
+        end_date: 2026-05
+        summary: • Led end-to-end data lifecycle work, including data acquisition, cleaning, processing, analysis, and visualization across large-scale datasets (>100K records).
+                  • Conducted statistical analyses to address strategic research questions related to human communication.
+                  • Develop content quality systems (annotation guidelines, rubrics) for consistent, reliable annotation.
+                  • Synthesize qualitative and quantitative findings into actionable insights using clear reports, slide decks, and visualizations for (non-)academic partners.
+                  • Wrote and edited peer-reviewed articles, book chapters, and applied research outputs.
+                  • Communicated analytical findings to diverse academic and administrative audiences through written reports, presentations, and public forums.
+     
+      - company: Mercor.co
+        position: Generative Model Evaluator - Intern
+        start_date: 2025-06
+        end_date: 2025-11
+        summary: Contributed to LLM training and evaluation at a leading AI research lab by designing, implementing, and reviewing domain-specific human-in-the-loop evaluation frameworks that integrate qualitative judgments with quantitative metrics to inform model diagnostics, enhance robustness, and foster cross-disciplinary research. Identified and interpreted model failure modes to advance theoretical insight into language representation and model behavior
+      
+      - company: Harvard University
+        position: Assistant Director of Undergrad Studies, Teaching and Pedagogy Fellow
+        start_date: Sep 2021
+        end_date: May 2024
+        summary: • Supported program-level planning and curriculum coordination, working closely with faculty and administrators and handling confidential information.
+                • Designed and led workshops/training sessions for faculty and educators, translating research into practice.
+                • Designed curricula that transformed complex concepts into engaging, user-centered learning experiences.
+               • Coordinated instructional teams to maintain consistency in evaluation and grading standards.
+                • Collected and analyzed learner feedback to improve program design, pacing, and engagement.
+                • Coordinated and delivered structured learning programs, including scheduling, content delivery, and alignment across instructional teams.
+
+
+    Awards:
+      - title: Dissertation Completion Fellowship
+        awarder: Harvard University
+        date: 2024
+        summary: Fall 2024 – Spring 2025
+
+     - title: Mind, Brain, and Behavior Graduate Student Award 
+       awarder: Harvard University
+       date: Spring 2024 - Fall 2024
+       summary: $5000
+
+      - title: Student Recognition of Teaching
+        awarder: Harvard Kenneth C. Griffin Graduate School of Arts and Sciences
+        summary: Awarded for Ling 98A, Tutorial Head Instructor Fall 2022
+
+       - title: Certificate of Distinction in Teaching
+         awarder: Harvard University
+         summary: Awarded for Ling 83, Discussion Section Spring 2022
+                  Awarded for Ling 104, Discussion Section Fall 2021
+
+    Projects:
+      - name: Supporting Sign Language Development of Deaf Children with Hearing Parents through Linguistically-Informed Preschool Stories
+        summary: Research Assistant
+        start_date: 2018
+        end_date: 2019
+        highlights:
+          - "Funded by Boğaziçi University (#11500)"
+          - "PI: Dr. Kadir Gökgöz, Boğaziçi University"
+
+      - name: Language Contact in Turkey: Documentation and Analysis
+        summary: Research Assistant
+        start_date: 2016-11
+        end_date: 2019-07
+        highlights:
+          - "Funded by Boğaziçi University (#1445)"
+          - "PI: Dr. Aslı Göksel, Boğaziçi University"
+
+      - name: Contrastive interlanguage analysis of French, Portuguese, Japanese, and Turkish
+        summary: Research Assistant
+        start_date: 2016-08
+        end_date: 2019-03
+        highlights:
+          - "Responsible for data collection"
+          - "PI: Dr. Yuji Kawaguchi, TUFS"
+        
+    Languages:
+      - name: Turkish
+        summary: Native
+      - name: English
+        summary: Fluent
+      - name: German
+        summary: Upper Intermediate
+      - name: Turkish Sign Language (TİD)
+        summary: Research proficiency
+      - name: American Sign Language (ASL)
+        summary: Research proficiency
+
+    Skills:
+      - name: Programming and Tools
+        keywords:
+          - R
+          - Python
+          - SQL
+          - ELAN
+          - Qualtrics
+          - LaTeX
+          - PRAAT
+
+    References:
+      - name: Kathryn Davidson
+        reference: Harvard University, Professor of Linguistics, kathryndavidson@fas.harvard.edu
+      - name: Jonathan David Bobaljik
+        reference: Harvard University, Professor of Linguistics, bobaljik@fas.harvard.edu
+      - name: Kadir Gökgöz
+        reference: Boğaziçi University, Associate Professor of Linguistics, kadir.gokgoz@bogazici.edu.tr
