@@ -81,39 +81,19 @@ cv:
         position: Doctoral Researcher
         start_date: 2019-08
         end_date: 2026-05
-        summary: "Led research, data analysis, writing, and communication projects across linguistics and human communication.
-        Designed and operationalized multilingual annotation workflows across five spoken and sign languages to support scalable behavioral and model evaluation.
-        Standardized annotation practices, improving reproducibility and consistency across studies.
-        Built automated R/Python data pipelines for user data analysis across 10+ multimodal studies, improving processing efficiency and reproducibility across research teams.
-        Conducted data quality audits and inter-annotator agreement checks for consistent, reliable annotation.
-        Applied statistical modeling and data visualization to analyze >100k behavioral data points from 500 participants to detect insights into usability and decision-making patterns.
-        Synthesized qualitative and quantitative findings into actionable insights for (non-)academic partners.
-        Collaborated with cross-functional teams to interpret behavioral trends and inform experiment design, interface testing, and model evaluation.
-        Delivered research findings through peer-reviewed publications and conferences, bridging academic insights and applied user research"
+        summary: "Led research, data analysis, writing, and communication projects across linguistics and human communication."
 
       - company: Mercor.co
         position: Generative Model Evaluator - Intern
         start_date: 2025-06
         end_date: 2025-11
-        summary: "As a part of Project Elephant, contributed to LLM training and evaluation through domain-specific human-in-the-loop evaluation frameworks.
-        Designed and tested conversational evaluation flows to measure accuracy and consistency, and user-preference alignment in LLM-based assistants.
-        Built human-in-the-loop validation workflows enabling scalable quality assurance and faster iteration cycles.
-        Synthesized qualitative feedback with quantitative performance metrics to propose model improvements that increased user satisfaction.
-        Applied linguistic expertise to shape intent models and optimize user experience in AI-driven interactions.
-        Identified model failure modes and edge cases through structured evaluation, contributing to improved robustness and user safety alignment."
-
+        summary: "As a part of Project Elephant, contributed to LLM training and evaluation through domain-specific human-in-the-loop evaluation frameworks."
+        
       - company: Harvard University
         position: Assistant Director of Undergraduate Studies, Teaching and Pedagogy Fellow
         start_date: 2021-09
         end_date: 2024-05
-        summary: "Supported program planning, curriculum coordination, teaching, pedagogy workshops, and learner feedback analysis.
-        Designed and led training programs and onboarding flows, demonstrating strengths in structured communication, scalable process design, and experience guiding cross-functional groups.
-        Standardized grading rubrics and written feedback to ensure consistency across instructors
-        Designed curricula that transformed complex concepts into engaging, user-centered learning experiences.
-        Reviewed and edited instructional materials and assessments for clarity and consistency across courses.
-        Coordinated instructional teams to maintain consistency in evaluation and grading standards.
-        Collected and analyzed learner feedback to improve program design, pacing, and engagement.
-        Coordinated and delivered structured learning programs, including scheduling, content delivery, and alignment across instructional teams."
+        summary: "Supported program planning, curriculum coordination, teaching, pedagogy workshops, and learner feedback analysis."
 
     Awards:
       - title: Dissertation Completion Fellowship
@@ -133,7 +113,7 @@ cv:
 
       - title: Certificate of Distinction in Teaching
         awarder: Harvard University
-        date: 2021,2022
+        date: 2021
         summary: "Awarded for Ling 83, Spring 2022 and Ling 104, Fall 2021"
 
     Projects:
