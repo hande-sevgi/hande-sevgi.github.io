@@ -2,8 +2,8 @@
 layout: page
 title: Depiction and Grammar
 description: Depiction, classifier constructions, ideophones, and gesture across modalities
-importance: 3
-category: research
+importance: 6
+category: in progress
 related_publications: true
 ---
 
