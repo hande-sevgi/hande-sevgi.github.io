@@ -19,29 +19,25 @@ nav_order: 2
 
 <div class="type">
 
-<hr>
-
 **Journal Articles**
 
-{% bibliography --query @*[type=journals] --sort_by year --order descending %}
-
+{% bibliography --query @article --sort_by year --order descending %}
 
 <hr>
 
 **Book Chapters**
-{% bibliography --query @*[type=bookchapters] --sort_by year --order descending %}
 
+{% bibliography --query @incollection --sort_by year --order descending %}
 
 <hr>
+
 **Conference Proceedings**
 
-{% bibliography --query @*[type=proceedings] --sort_by year --order descending %}
-
+{% bibliography --query @inproceedings --sort_by year --order descending %}
 
 <hr>
 
-**Manuscripts/Work in Progress**
+**Manuscripts**
 
-{% bibliography --query @*[type=manuscripts] --sort_by year --order descending %}
-
+{% bibliography --query @unpublished --sort_by year --order descending %}
 </div>
