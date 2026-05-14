@@ -46,6 +46,24 @@ cv:
         releaseDate: 2023
         summary: "26(1). DOI: 10.1075/sll.21006.sev"
 
+     - title: "Aspects of clause structure and morphology in Turkish Sign Language"
+        authors:
+          - Kadir Gökgöz
+          - Hande Sevgi
+        publisher: "In Gürer, Aslı, Dilek Uygun-Gökmen and Balkız Öztürk (Eds.). ¨Morphological Complexity within and across Boundarie". John Benjamins Publishing Company."
+        releaseDate: 2020
+        summary: "doi.org/slcs.215.12gok"
+
+
+     - title: "Null arguments in Turkish Sign Language"
+        authors:
+          - Demet Kayabaşı
+          - Hande Sevgi
+          - Sumru Özsoy
+        publisher: "In Gürer, Aslı, Dilek Uygun-Gökmen and Balkız Öztürk (Eds.). ¨Morphological Complexity within and across Boundarie". John Benjamins Publishing Company."
+        releaseDate: 2020
+        summary: "doi.org/10.1075/slcs.215.14kay"
+        
       - title: "One root to build them all: Roots in sign language classifiers"
         authors:
           - Hande Sevgi
