@@ -8,4 +8,5 @@ nav_order: 2
 ---
 
 {% include bib_search.liquid %}
-{% bibliography %}
+
+{% bibliography --sort_by year --order descending %}
