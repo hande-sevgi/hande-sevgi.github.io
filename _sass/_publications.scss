@@ -113,6 +113,7 @@
             border-color: var(--global-theme-color);
           }
         }
+
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
@@ -120,6 +121,7 @@
 
       .badges {
         padding-bottom: 0.5rem;
+
         span {
           display: inline-block;
           color: v.$black-color;
@@ -143,8 +145,7 @@
         -ms-transition: 0.15s ease;
         -o-transition: 0.15s ease;
         transition: all 0.15s ease;
-      }
-      
+
         p {
           line-height: 1.4em;
           margin: 10px;
@@ -166,6 +167,11 @@
         transition: all 0.15s ease;
       }
 
+      div.bibtex.hidden,
+      div.bibtex.hidden.open {
+        display: none !important;
+      }
+
       div.abstract.hidden {
         border: dashed 1px var(--global-bg-color);
       }
@@ -174,9 +180,11 @@
         border-color: var(--global-text-color);
       }
     }
+
     div.award.hidden {
       border: dashed 1px var(--global-bg-color);
     }
+
     div.award.hidden.open {
       border-color: var(--global-highlight-color);
     }
