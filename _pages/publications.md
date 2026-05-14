@@ -37,7 +37,10 @@ nav_order: 2
 
 <hr>
 
-**Manuscripts**
+**Manuscripts and Work in Progress**
 
+{% bibliography --query @phdthesis --sort_by year --order descending %}
+{% bibliography --query @mastersthesis --sort_by year --order descending %}
 {% bibliography --query @unpublished --sort_by year --order descending %}
+
 </div>
