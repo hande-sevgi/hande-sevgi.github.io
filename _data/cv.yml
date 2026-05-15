@@ -6,9 +6,10 @@ cv:
   social_networks:
     github_username: hande-sevgi
     scholar_userid: vQjR-WcAAAAJ
-    linkedin_username: hande-sevgi-9398a375/
+    linkedin_username: hande-sevgi-9398a375
 
   sections:
+  
     Education:
       - institution: Harvard University
         location: Cambridge, MA
@@ -44,7 +45,7 @@ cv:
           - Kadir Gökgöz
         publisher: "Sign Language & Linguistics"
         releaseDate: 2023
-        summary: "26(1). DOI: 10.1075/sll.21006.sev"
+        summary: "26(1). doi: 10.1075/sll.21006.sev"
 
      - title: "Aspects of clause structure and morphology in Turkish Sign Language"
         authors:
