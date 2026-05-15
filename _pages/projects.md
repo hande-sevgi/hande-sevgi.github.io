@@ -5,8 +5,8 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [research, in progress, random ideas]
-horizontal: true
+display_categories: [research, in progress]
+horizontal: false
 ---
 
 {% if site.enable_project_categories and page.display_categories %} {% for category in page.display_categories %}
