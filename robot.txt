@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hande-sevgi.github.io/sitemap.xml
