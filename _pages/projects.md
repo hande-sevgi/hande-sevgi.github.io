@@ -1,8 +1,13 @@
 ---
-layout: page
+layout: about
 title: projects
 permalink: /projects/
 description:
+nav: true
+profile:
+  align: right
+  image: Sevgi_WiP.png
+  image_circular: false
 nav: true
 nav_order: 2
 display_categories: [research, in progress, random ideas]
