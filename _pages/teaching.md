@@ -35,9 +35,3 @@ You can find the material of the course I taught at Harvard.
 | Boğaziçi University | Teaching Assistant | Fall 2017 | **Ling 201**<br>Phonology | Kadir Gökgöz | 42 students |
 | Turkish Language and Culture Program | Instructor | Summer 2019 | Speaking Course for Pre-Intermediate Turkish | — |  |
 | Turkish Language and Culture Program | Teaching Assistant | Summer 2018 | Advanced Turkish | — | Grammar, Writing, Reading, Speaking |
-
-### Turkish Language and Culture Program — Teaching Assistant
-
-| Term | Course | Areas |
-|---|---|---|
-| Summer 2018 | Advanced Turkish | Grammar, Writing, Reading, Speaking |
