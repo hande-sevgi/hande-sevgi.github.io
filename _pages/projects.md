@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 2
-display_categories: [research, in progress]
+display_categories: [research, in progress, random ideas]
 horizontal: false
 ---
 
