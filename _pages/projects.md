@@ -6,7 +6,7 @@ description:
 nav: true
 profile:
   align: right
-  image: Sevgi_WiP.png
+  image: Sevgi_WiP.jpg
   image_circular: false
 nav: true
 nav_order: 2
