@@ -6,8 +6,8 @@ description: List of courses I taught, and course syllabi.
 nav: true
 nav_order: 6
 ---
-
-You can find the list of courses that I taught and syllabus of the course I taught at Harvard. Please feel free to contact for the material of the course. <img src="/assets/img/Sevgi_teaching.png" align="right" width="250" style="border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
+<img src="/assets/img/Sevgi_teaching.png" align="right" width="250" style="border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
+You can find the list of courses that I taught and syllabus of the course I taught at Harvard. Please feel free to contact for the material of the course. 
 <br>
 {% include courses.liquid %}
 <br>
