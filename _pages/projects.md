@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 profile:
-  align: left
+  align: top
   image: Sevgi_WiP.jpg
   image_circular: false
 nav: true
