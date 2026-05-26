@@ -63,7 +63,7 @@ horizontal: false
   {% endif %}
 {% endif %}
 
-<p align="center">
-  <img src="/assets/img/Sevgi_WiP.jpg" width="350" alt="Focus mode">
+<p align="left">
+  <img src="/assets/img/Sevgi_WiP.jpg" width="150" alt="Focus mode">
 </p>
 </div>
