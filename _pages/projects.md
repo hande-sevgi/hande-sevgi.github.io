@@ -64,6 +64,6 @@ horizontal: false
 {% endif %}
 
 <p align="center">
-  <img src="/assets/img/Sevgi_WiP" width="350" alt="Hande Sevgi working">
+  <img src="/assets/img/Sevgi_WiP.png" width="350" alt="Focus mode">
 </p>
 </div>
