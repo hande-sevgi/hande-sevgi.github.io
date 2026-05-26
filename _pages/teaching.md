@@ -2,7 +2,7 @@
 layout: about
 permalink: /teaching/
 title: teaching
-description: List of courses I thought, and course syllabi.
+description: List of courses I taught, and course syllabi.
 nav: true
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
 nav_order: 6
 ---
 
-You can find the material of the course I taught at Harvard.
+You can find the list of courses that I taught and syllabus of the course I taught at Harvard. Please feel free to contact for the material of the course.
 
 {% include courses.liquid %}
 
