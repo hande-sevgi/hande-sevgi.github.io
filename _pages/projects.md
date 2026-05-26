@@ -4,11 +4,6 @@ title: projects
 permalink: /projects/
 description:
 nav: true
-profile:
-  align: top
-  image: Sevgi_WiP.jpg
-  image_circular: false
-nav: true
 nav_order: 3
 display_categories: [research, in progress, random ideas]
 horizontal: false
@@ -67,4 +62,8 @@ horizontal: false
   </div>
   {% endif %}
 {% endif %}
+
+<p align="center">
+  <img src="/assets/img/Sevgi_WiP" width="350" alt="Hande Sevgi working">
+</p>
 </div>
