@@ -13,12 +13,6 @@ nav_order: 6
 
 You can find the list of courses that I taught and syllabus of the course I taught at Harvard. Please feel free to contact for the material of the course.
 
-{% include courses.liquid %}
-
-<br><br>
-
-## Teaching
-
 | Term | Course | Institution | Role | Instructors | Notes |
 |---|---|---|---|---|---|
 | Spring 2024 | **Ling 97R**<br>Sophomore Tutorial<br>Sign Languages and Linguistics | Harvard University | Instructor |  |  |
@@ -37,3 +31,9 @@ You can find the list of courses that I taught and syllabus of the course I taug
 | Fall 2017 | **Ling 201**<br>Phonology | Boğaziçi University | Teaching Assistant | Kadir Gökgöz | 42 students |
 | Summer 2019 | Speaking Course for Pre-Intermediate Turkish | [Turkish Language and Culture Program](https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217) | Instructor |  | Speaking |
 | Summer 2018 | Advanced Turkish | [Turkish Language and Culture Program](https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217) | Teaching Assistant |  | Grammar, Writing, Reading, Speaking |
+
+<br><br>
+
+{% include courses.liquid %}
+
+
