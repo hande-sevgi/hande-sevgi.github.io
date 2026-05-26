@@ -59,11 +59,12 @@ horizontal: false
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
+
+    <p align="right">
+  <img src="/assets/img/Sevgi_WiP.jpg" width="250" alt="Focus mode">
+  </p>
   </div>
   {% endif %}
 {% endif %}
-<br>
-<p align="left">
-  <img src="/assets/img/Sevgi_WiP.jpg" width="150" alt="Focus mode">
-</p>
+
 </div>
