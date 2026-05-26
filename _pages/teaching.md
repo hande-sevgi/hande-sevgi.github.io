@@ -12,6 +12,7 @@ You can find the list of courses that I taught and syllabus of the course I taug
 {% include courses.liquid %}
 <img src="/assets/img/Sevgi_teaching.png" align="right" width="250" style="border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
 <br>
+<br>
 
 | Term | Course | Institution | Role | Instructors | Notes |
 |---|---|---|---|---|---|
