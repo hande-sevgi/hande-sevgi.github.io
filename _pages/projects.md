@@ -5,11 +5,11 @@ permalink: /projects/
 description:
 nav: true
 profile:
-  align: right
+  align: left
   image: Sevgi_WiP.jpg
   image_circular: false
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [research, in progress, random ideas]
 horizontal: false
 ---
