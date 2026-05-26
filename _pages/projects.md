@@ -58,11 +58,8 @@ horizontal: false
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
+    <p align="right"><img src="/assets/img/Sevgi_WiP.jpg" width="250" alt="Focus mode"></p>
     {% endfor %}
-
-    <p align="right">
-  <img src="/assets/img/Sevgi_WiP.jpg" width="250" alt="Focus mode">
-  </p>
   </div>
   {% endif %}
 {% endif %}
