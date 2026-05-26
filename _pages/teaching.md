@@ -35,5 +35,5 @@ You can find the list of courses that I taught and syllabus of the course I taug
 | Spring 2018 | **Ling 104**<br>Phonetics | Boğaziçi University | Teaching Assistant | Kadir Gökgöz | 53 students |
 | Spring 2018 | **Ling 314**<br>Syntax and Semantics of Modern Turkish | Boğaziçi University | Teaching Assistant | Balkız Öztürk | 53 students |
 | Fall 2017 | **Ling 201**<br>Phonology | Boğaziçi University | Teaching Assistant | Kadir Gökgöz | 42 students |
-| Summer 2019 | Speaking Course for Pre-Intermediate Turkish | Turkish Language and Culture Program | Instructor |  |  |
-| Summer 2018 | Advanced Turkish | Turkish Language and Culture Program | Teaching Assistant |  | Grammar, Writing, Reading, Speaking |
+| Summer 2019 | Speaking Course for Pre-Intermediate Turkish | [Turkish Language and Culture Program](https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217) | Instructor |  | Speaking |
+| Summer 2018 | Advanced Turkish | [Turkish Language and Culture Program](https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217) | Teaching Assistant |  | Grammar, Writing, Reading, Speaking |
