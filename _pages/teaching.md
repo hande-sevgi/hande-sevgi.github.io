@@ -21,10 +21,10 @@ You can find the list of courses that I taught and syllabus of the course I taug
 
 | Term | Course | Institution | Role | Instructors | Notes |
 |---|---|---|---|---|---|
-| Spring 2024 | **Ling 97R Sophomore Tutorial**<br>Sign Languages and Linguistics | Harvard University | Instructor |  |  |
-| Spring 2023 | **Ling 97R Sophomore Tutorial**<br>A Brief Introduction to Sign Language Linguistics | Harvard University | Instructor |  |  |
-| Fall 2022 | **Ling 98A Junior Tutorial**<br>Understanding Language through Sign Languages | Harvard University | Instructor |  | Derek Bok Student Recognition of Teaching |
-| Spring 2024 | **Ling 241B Practicum** | Harvard University | Teaching Fellow | Jonathan D. Bobaljik |  |
+| Spring 2024 | **Ling 97R**<br>Sophomore Tutorial<br>Sign Languages and Linguistics | Harvard University | Instructor |  |  |
+| Spring 2023 | **Ling 97R**<br>Sophomore Tutorial<br>A Brief Introduction to Sign Language Linguistics | Harvard University | Instructor |  |  |
+| Fall 2022 | **Ling 98A**<br>Junior Tutorial<br>Understanding Language through Sign Languages | Harvard University | Instructor |  | Derek Bok Student Recognition of Teaching |
+| Spring 2024 | **Ling 241B**<br>Practicum | Harvard University | Teaching Fellow | Jonathan D. Bobaljik |  |
 | Spring 2022 | **Ling 83**<br>Language, Structure, and Cognition | Harvard University | Teaching Fellow | Adam R. Singerman | Derek Bok Teaching Award |
 | Fall 2021 | **Ling 104**<br>Word Structure | Harvard University | Teaching Fellow | Jonathan D. Bobaljik | Derek Bok Teaching Award |
 | Fall 2021 | **Ling 101**<br>The Science of Language: An Introduction | Harvard University | Teaching Fellow | Yağmur Sağ-Parvardeh |  |
