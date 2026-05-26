@@ -96,22 +96,32 @@ cv:
         
     Experience:
       - company: Harvard University
+        location: Cambridge, MA
         position: Doctoral Researcher
         start_date: 2019-08
         end_date: 2026-05
         summary: "Led research, data analysis, writing, and communication projects across linguistics and human communication."
 
       - company: Mercor.co
+        location: Remote
         position: Generative Model Evaluator - Intern
         start_date: 2025-06
         end_date: 2025-11
         summary: "As a part of Project Elephant, contributed to LLM training and evaluation through domain-specific human-in-the-loop evaluation frameworks."
         
       - company: Harvard University
+        location: Cambridge, MA
         position: Assistant Director of Undergraduate Studies, Teaching and Pedagogy Fellow
         start_date: 2021-09
         end_date: 2024-05
         summary: "Supported program planning, curriculum coordination, teaching, pedagogy workshops, and learner feedback analysis."
+
+      - company: Boğaziçi University
+        location: Istanbul, Türkiye
+        position: Research Assistant
+        start_date: 2018-02
+        end_date: 2019-07
+        summary: "Led weekly discussion sections, evaluated assignments, assisted with departmental administration, including course planning"
 
     Awards:
       - title: Dissertation Completion Fellowship
