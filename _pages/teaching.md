@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: List of courses I taught, and course syllabi.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 <img src="/assets/img/Sevgi_teaching.png" align="right" width="250" style="border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
 <br>
