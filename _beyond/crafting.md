@@ -1,7 +1,7 @@
 ---
 layout: page
 title: crafty times
-permalink: /beyond/crafting/
+permalink: /_beyond/crafting.md
 ---
 
 Coming soon!
