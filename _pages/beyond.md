@@ -1,4 +1,5 @@
 ---
+---
 layout: page
 title: beyond
 permalink: /beyond/
@@ -7,4 +8,58 @@ nav_order: 7
 description:
 ---
 
-Here I will share my non-academic activities/hobbies. Work in progress!
+Here I will share my non-academic activities and hobbies. Work in progress!
+
+<div class="beyond-grid">
+
+  <a class="beyond-card" href="/assets/pdf/resume.pdf">
+    <h2>Resume</h2>
+    <p>View or download my resume.</p>
+  </a>
+
+  <a class="beyond-card" href="/beyond/knitting/">
+    <h2>Crafty times</h2>
+    <p>Projects, patterns, and things I have made.</p>
+  </a>
+
+  <a class="beyond-card" href="/beyond/cooking-baking/">
+    <h2>Cooking & Baking</h2>
+    <p>Recipes, experiments, and favorite dishes.</p>
+  </a>
+
+</div>
+
+<style>
+.beyond-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
+  margin-top: 2rem;
+}
+
+.beyond-card {
+  display: block;
+  padding: 1.5rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  text-decoration: none;
+  color: var(--global-text-color);
+  background: var(--global-card-bg-color);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.beyond-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+  text-decoration: none;
+}
+
+.beyond-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.beyond-card p {
+  margin-bottom: 0;
+}
+</style>
