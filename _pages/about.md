@@ -25,7 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-am a linguist whose research lies at the intersection of sign language linguistics, semantics, morphology, and event structure from cross-linguistic and cross-modal perspectives. I received my Ph.D. in Linguistics from Harvard University. My work investigates how events are represented across sign languages, spoken languages, and gesture, and what these patterns reveal about the architecture of grammar and the nature of human language.
+I am a linguist whose research lies at the intersection of sign language linguistics, semantics, morphology, and event structure from cross-linguistic and cross-modal perspectives. I received my Ph.D. in Linguistics from Harvard University. My work investigates how events are represented across sign languages, spoken languages, and gesture, and what these patterns reveal about the architecture of grammar and the nature of human language.
 
 A central goal of my work is to understand how modality shapes linguistic representation and interpretation. By bringing together evidence from experimental semantics, syntax, and multimodal communication, I examine how event components are expressed, constrained, and interpreted across different linguistic systems. Sign languages play a crucial role in this research, as they offer a unique perspective on the interaction between iconicity, compositionality, and grammatical structure.
 
