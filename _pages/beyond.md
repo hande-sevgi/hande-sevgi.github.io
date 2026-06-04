@@ -11,12 +11,12 @@ Here I will share my non-academic activities and hobbies. Work in progress!
 
 <div class="beyond-grid">
 
-  <a class="beyond-card" href="/_beyond/crafting.md">
+  <a class="beyond-card" href="/_beyond/crafting/">
     <h2>Crafty times</h2>
     <p>Projects, patterns, and things I have made.</p>
   </a>
 
-  <a class="beyond-card" href="/_beyond/cooking-baking.md">
+  <a class="beyond-card" href="/_beyond/cooking-baking/">
     <h2>Cooking & Baking</h2>
     <p>Recipes, experiments, and favorite dishes.</p>
   </a>
