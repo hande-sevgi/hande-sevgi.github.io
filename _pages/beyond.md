@@ -12,7 +12,7 @@ Here I will share my non-academic activities and hobbies. Work in progress!
 
 <div class="beyond-grid">
 
-  <a class="beyond-card" href="/assets/pdf/resume.pdf">
+  <a class="beyond-card" href="/assets/pdf/Sevgi_Resume.pdf">
     <h2>Resume</h2>
     <p>View or download my resume.</p>
   </a>
