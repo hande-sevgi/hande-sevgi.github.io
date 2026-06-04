@@ -7,7 +7,7 @@ nav_order: 7
 description:
 ---
 
-Here I will share my non-academic activities and hobbies. Work in progress!
+Here I will share my non-academic activities and hobbies. In progress!
 
 <div class="beyond-grid">
 
