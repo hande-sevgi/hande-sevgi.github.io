@@ -11,19 +11,19 @@ Here I will share my non-academic activities and hobbies. Work in progress!
 
 <div class="beyond-grid">
 
-  <a class="beyond-card" href="/assets/pdf/resume.pdf">
-    <h2>Resume</h2>
-    <p>View or download my resume.</p>
-  </a>
-
-  <a class="beyond-card" href="/beyond/knitting/">
-    <h2>Knitting</h2>
+  <a class="beyond-card" href="/beyond/crafting/">
+    <h2>Crafty times</h2>
     <p>Projects, patterns, and things I have made.</p>
   </a>
 
   <a class="beyond-card" href="/beyond/cooking-baking/">
     <h2>Cooking & Baking</h2>
     <p>Recipes, experiments, and favorite dishes.</p>
+  </a>
+
+<a class="beyond-card" href="/assets/pdf/Sevgi_Resume.pdf">
+    <h2>Resume</h2>
+    <p>View or download my resume.</p>
   </a>
 
 </div>
