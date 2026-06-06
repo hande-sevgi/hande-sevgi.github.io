@@ -39,19 +39,12 @@ permalink: /beyond/crafting/
 
   <a class="craft-card" href="#tiny-yellow-bag">
     <img src="/assets/img/crafting/yellow-bag.jpg" alt="Tiny yellow bag">
-    <span>Tiny Yellow Bag</span>
   </a>
 
   <a class="craft-card" href="#color-by-numbers">
     <img src="/assets/img/crafting/color-the-numbers.jpg" alt="Color by numbers">
-    <span>Color by Numbers</span>
   </a>
-
-  <a class="craft-card" href="#embroidery">
-    <img src="/assets/img/crafting/embroidery.jpg" alt="Embroidery">
-    <span>Embroidery</span>
-  </a>
-
+  
 </div>
 
 ---
