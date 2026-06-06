@@ -33,8 +33,6 @@ permalink: /beyond/crafting/
 }
 </style>
 
-## Projects
-
 <div class="craft-grid">
 
   <a class="craft-card" href="#color-by-numbers">
