@@ -52,8 +52,7 @@ permalink: /beyond/crafting/
 ---
 
 ## **Accepting imperfections**
-{: #color-by-numbers}
-**Accepting imperfections**
+{: #yellow-bag}
 
 <p>I still do not know the formal definition of perfectionism, but lately I have been realizing that it does not necessarily lead to perfect outcomes. More often, it eats away at the joy of creating because you expect yourself to do everything flawlessly. And sometimes the result is not doing anything at all.</p>
 ![Tiny yellow bag](/assets/img/crafting/yellow-bag.jpg)
@@ -64,7 +63,7 @@ permalink: /beyond/crafting/
 
 ---
 ## **What is art**
-{: #tiny-yellow-bag}
+{: #color-by-numbers}
 
 <p>For a long time, I thought art meant creating something that did not exist before. Perhaps because of that belief, realism never felt like the ultimate form of art to me. If the goal was simply to reproduce what was already there, where was the creativity? As a teenager, I spent a lot of time looking for artistic talent in myself. I painted still lifes and practiced music, where I was quite successful. Surprise surprise: I even won several awards for my paintings and gave a number of solo concerts. Yet I often felt like an impostor since I was not creating at all. At thirteen, I convinced myself that I was merely copying what I saw rather than creating something new. At seventeen, I gave up my music studies because I felt I could only play the notes on the page. Technically correct, perhaps. But without a soul of my own.</p>
 <p>Looking back, I think I had a very narrow understanding of creativity. I believed that originality was the only thing that mattered. If I could not invent something entirely new, then I was not an artist. These days, I am more comfortable with copying. My little yellow bag, for example, was made from a pattern. It is not my design. Yet every stitch reflects my time, patience, frustration, and persistence. The object may not be original, but the experience of making it is entirely mine.</p>
