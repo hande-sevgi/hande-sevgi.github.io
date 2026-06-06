@@ -37,12 +37,16 @@ permalink: /beyond/crafting/
 
 <div class="craft-grid">
 
+  <a class="craft-card" href="#color-by-numbers">
+    <img src="/assets/img/crafting/color-the-numbers.jpg" alt="Color by numbers">
+  </a>
+  
   <a class="craft-card" href="#tiny-yellow-bag">
     <img src="/assets/img/crafting/yellow-bag.jpg" alt="Tiny yellow bag">
   </a>
 
-  <a class="craft-card" href="#color-by-numbers">
-    <img src="/assets/img/crafting/color-the-numbers.jpg" alt="Color by numbers">
+  <a class="craft-card" href="#in-progress">
+    <img src="/assets/img/crafting/more.jpg" alt="In progress!">
   </a>
   
 </div>
