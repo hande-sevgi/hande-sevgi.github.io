@@ -34,13 +34,13 @@ permalink: /beyond/crafting/
 </style>
 
 <div class="craft-grid">
-
-  <a class="craft-card" href="#color-by-numbers">
-    <img src="/assets/img/crafting/color-the-numbers.jpg" alt="Color by numbers">
-  </a>
   
   <a class="craft-card" href="#tiny-yellow-bag">
     <img src="/assets/img/crafting/yellow-bag.jpg" alt="Tiny yellow bag">
+  </a>
+
+  <a class="craft-card" href="#color-by-numbers">
+    <img src="/assets/img/crafting/color-the-numbers.jpg" alt="Color by numbers">
   </a>
 
   <a class="craft-card" href="#in-progress">
@@ -52,7 +52,7 @@ permalink: /beyond/crafting/
 ---
 
 ## **Accepting imperfections**
-{: #yellow-bag}
+{: #tiny-yellow-bag}
 
 <p>I still do not know the formal definition of perfectionism, but lately I have been realizing that it does not necessarily lead to perfect outcomes. More often, it eats away at the joy of creating because you expect yourself to do everything flawlessly. And sometimes the result is not doing anything at all.</p>
 ![Tiny yellow bag](/assets/img/crafting/yellow-bag.jpg)
