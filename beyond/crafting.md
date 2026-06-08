@@ -58,7 +58,7 @@ permalink: /beyond/crafting/
 <div style="text-align:center;">
   <img src="/assets/img/IMG_1028.jpeg"
        alt="Tiny yellow bag"
-       style="width:300px; height:300px; object-fit:cover; border-radius:50%;">
+       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
 </div>
 <p>Every stitch on this tiny yellow bag is the result of doing and undoing, starting over, feeling dissatisfied, and wanting to give up. Is it flawless now? No. Is it exactly what I had in mind? No. Could I have done better? Probably not, at least not with the skills and patience I had at that moment. Maybe part of growing up is learning to accept ourselves as we are instead of constantly measuring ourselves against impossible standards. It would be nice to understand where these feelings come from, but the current state of my mental health is not particularly helpful in answering that question. For now, perhaps it is enough to accept that something can be imperfect and still be worth making.</p>
 *Sending my love to my mom, who taught me these embroidery techniques many years ago.*
@@ -74,7 +74,7 @@ permalink: /beyond/crafting/
 <div style="text-align:center;">
   <img src="/assets/img/IMG_1029.jpeg"
        alt="Color by numbers"
-       style="width:300px; height:300px; object-fit:cover; border-radius:50%;">
+       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
 </div>
 
 <p>The same is true for paint-by-number kits. No need for creativity in choosing the colors. The decisions have already been made. Yet the sheer truth is that I enjoy the process immensely. I like filling in the spaces, watching the image slowly emerge, and allowing myself to focus on something simple without using too many brain cells or too much glucose. I am still not sure whether I believe in art for art's sake or art for people. What I do know is that, at this point in my life, art is for happiness. Maybe creating something does not have to be original to be meaningful. Maybe it only needs to make us want to keep creating.</p>
