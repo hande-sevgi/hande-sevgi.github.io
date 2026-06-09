@@ -47,7 +47,7 @@ permalink: /beyond/crafting/
     <img src="/assets/img/IMG_1030.jpeg" alt="Placemat in red">
   </a>
 
-   <a class="craft-card" href="in-progress">
+   <a class="craft-card" href="#in-progress">
     <img src="/assets/img/Cartoon.png" alt="More in progress!">
   </a>
   
