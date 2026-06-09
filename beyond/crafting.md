@@ -39,12 +39,12 @@ permalink: /beyond/crafting/
     <img src="/assets/img/IMG_1028.jpeg" alt="Tiny yellow bag">
   </a>
 
-  <a class="craft-card" href="#color-by-numbers">
+  <a class="craft-card" href="#paint-by-numbers">
     <img src="/assets/img/IMG_1029.jpeg" alt="Paint by numbers">
   </a>
 
-  <a class="craft-card" href="#under-the-plate">
-    <img src="/assets/img/IMG_1030.jpeg" alt="Red!">
+  <a class="craft-card" href="#placemat-in-red">
+    <img src="/assets/img/IMG_1030.jpeg" alt="Placemat in red">
   </a>
 
    <a class="craft-card" href="in-progress">
@@ -71,7 +71,7 @@ permalink: /beyond/crafting/
 
 ---
 ## **What is art**
-{: #color-by-numbers}
+{: #paint-by-numbers}
 
 <p>For a long time, I thought art meant creating something that did not exist before. Perhaps because of that belief, realism never felt like the ultimate form of art to me. If the goal was simply to reproduce what was already there, where was the creativity? As a teenager, I spent a lot of time looking for artistic talent in myself. I painted still lifes and practiced music, where I was quite successful. Surprise surprise: I even won several awards for my paintings and gave a number of solo concerts. Yet I often felt like an impostor since I was not creating at all. At thirteen, I convinced myself that I was merely copying what I saw rather than creating something new. At seventeen, I gave up my music studies because I felt I could only play the notes on the page. Technically correct, perhaps. But without a soul of my own.</p>
 <p>Looking back, I think I had a very narrow understanding of creativity. I believed that originality was the only thing that mattered. If I could not invent something entirely new, then I was not an artist. These days, I am more comfortable with copying. My little yellow bag, for example, was made from a pattern. It is not my design. Yet every stitch reflects my time, patience, frustration, and persistence. The object may not be original, but the experience of making it is entirely mine.</p>
@@ -87,7 +87,7 @@ permalink: /beyond/crafting/
 
 ---
 ## **Motivating the motif**
-{: #under-the-plate}
+{: #placemat-in-red}
 <p>A single stitch, then another. Repeat the same one, or tweak it slightly. A few loops later, it may become a flower. A few flowers may begin to look like a circle. Repeat the process enough times, and a pattern emerges. Here is your motif.</p>
   
   
