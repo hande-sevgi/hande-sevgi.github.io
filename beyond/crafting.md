@@ -104,3 +104,5 @@ permalink: /beyond/crafting/
 ## **In progress**
 {: #in-progress}
 [Back to projects](#projects)
+
+---
