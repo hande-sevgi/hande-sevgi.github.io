@@ -7,7 +7,8 @@ first_name: Hande
 middle_name: 
 last_name: Sevgi
 contact_note: >
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: "Hande Sevgi is a linguist whose research focuses on sign language linguistics."
+
 
 footer_text: >
   
