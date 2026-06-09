@@ -43,11 +43,11 @@ permalink: /beyond/crafting/
     <img src="/assets/img/IMG_1029.jpeg" alt="Paint by numbers">
   </a>
 
-  <a class="craft-card" href="#under-the-table">
+  <a class="craft-card" href="#under-the-plate">
     <img src="/assets/img/IMG_1030.jpeg" alt="Red!">
   </a>
 
-   <a class="craft-card" href="">
+   <a class="craft-card" href="in-progress">
     <img src="/assets/img/Cartoon.png" alt="More in progress!">
   </a>
   
@@ -100,3 +100,7 @@ permalink: /beyond/crafting/
 <p>It sounds a little like language. Sounds become words, words become sentences, and small repeated choices begin to make something larger. Some patterns are regular, some shift slightly. The pattern is not always obvious while it is being made. Sometimes it only appears when one steps back and looks at the whole thing. What looks like a series of tiny loops may turn out to have been a structure all along.</p>
 [Back to projects](#projects)
 
+---
+## **In progress**
+{: #in-progress}
+[Back to projects](#projects)
