@@ -40,11 +40,15 @@ permalink: /beyond/crafting/
   </a>
 
   <a class="craft-card" href="#color-by-numbers">
-    <img src="/assets/img/IMG_1029.jpeg" alt="Color by numbers">
+    <img src="/assets/img/IMG_1029.jpeg" alt="Paint by numbers">
   </a>
 
-  <a class="craft-card" href="#in-progress">
-    <img src="/assets/img/IMG_1030.jpeg" alt="In progress!">
+  <a class="craft-card" href="#under-the-table">
+    <img src="/assets/img/IMG_1030.jpeg" alt="Red!">
+  </a>
+
+   <a class="craft-card" href="">
+    <img src="/assets/img/Cartoon.png" alt="More in progress!">
   </a>
   
 </div>
@@ -82,8 +86,17 @@ permalink: /beyond/crafting/
 [Back to projects](#projects)
 
 ---
-## **In Progress**
-{: #in-progress}
+## **Motivating the motif**
+{: #under-the-plate}
+<p>A single stitch, then another. Repeat the same one, or tweak it slightly. A few loops later, it may become a flower. A few flowers may begin to look like a circle. Repeat the process enough times, and a pattern emerges. Here is your motif.</p>
+  
+  
+<div style="text-align:center;">
+  <img src="/assets/img/IMG_1030.jpeg"
+       alt="Red!"
+       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
+</div>
 
+<p>It sounds a little like language. Sounds become words, words become sentences, and small repeated choices begin to make something larger. Some patterns are regular, some shift slightly. The pattern is not always obvious while it is being made. Sometimes it only appears when one steps back and looks at the whole thing. What looks like a series of tiny loops may turn out to have been a structure all along.</p>
 [Back to projects](#projects)
 
