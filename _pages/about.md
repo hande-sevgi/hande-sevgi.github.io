@@ -9,7 +9,7 @@ profile:
   image: Sevgi_about.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>1100 Mass Ave, 2rd Floor, 228</p>
+    <p>1100 Mass Ave, #228</p>
     <p>Cambridge, MA, 02138</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
