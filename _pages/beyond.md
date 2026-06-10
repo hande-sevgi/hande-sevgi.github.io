@@ -7,8 +7,7 @@ nav_order: 7
 description:
 ---
 
-Here I share some of the things I make in my leisure time, along with their final forms. Most of them were created during my PhD years, so each one carries a little bit of sorrow, a few tears, some sweat, and also the happiness of finding a small pocket of free time to enjoy my life and distract myself.
-
+Here I share some of the things I make in my leisure time, along with their finished forms. Most of them were created during my PhD years, so each one carries something from that time: a little sorrow, a few tears, some sweat, and the happiness of finding free time to enjoy myself, distract myself, and make something by hand.
 
 <div class="beyond-grid">
 
