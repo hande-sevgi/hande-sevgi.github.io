@@ -7,7 +7,8 @@ nav_order: 7
 description:
 ---
 
-Here I will share my non-academic activities and hobbies. In progress!
+Here I share some of the things I make in my leisure time, along with their final forms. Most of them were created during my PhD years, so each one carries a little bit of sorrow, a few tears, some sweat, and also the happiness of finding a small pocket of free time to enjoy my life and distract myself.
+
 
 <div class="beyond-grid">
 
