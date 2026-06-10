@@ -47,6 +47,11 @@ permalink: /beyond/crafting/
     <img src="/assets/img/IMG_1030.jpeg" alt="Placemat in red">
   </a>
 
+   <a class="craft-card" href="#tiny-house">
+    <img src="/assets/img/IMG_1031.jpeg" alt="Tiny house">
+  </a>
+
+
    <a class="craft-card" href="#in-progress">
     <img src="/assets/img/Cartoon.png" alt="More in progress!">
   </a>
@@ -82,6 +87,17 @@ permalink: /beyond/crafting/
 </div>
 
 <p>The same is true for paint-by-number kits. No need for creativity in choosing the colors. The decisions have already been made. Yet the sheer truth is that I enjoy the process immensely. I like filling in the spaces, watching the image slowly emerge, and allowing myself to focus on something simple without using too many brain cells or too much glucose. I am still not sure whether I believe in art for art's sake or art for people. What I do know is that, at this point in my life, art is for happiness. Maybe creating something does not have to be original to be meaningful. Maybe it only needs to make us want to keep creating.</p>
+
+[Back to projects](#projects)
+
+---
+## **Building blocks**
+{: #tiny-house}
+  
+<div style="text-align:center;">
+  <img src="/assets/img/IMG_1031.jpeg"
+       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
+</div>
 
 [Back to projects](#projects)
 
