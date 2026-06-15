@@ -15,6 +15,67 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 <br>
 <br>
 
+```html
+<style>
+.teaching-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-top: 1.5rem;
+}
+
+.teaching-item {
+  border: 1px solid #e6e6e6;
+  border-radius: 14px;
+  padding: 1rem 1.15rem;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.035);
+}
+
+.teaching-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.teaching-course {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.teaching-term {
+  font-size: 0.9rem;
+  color: #666;
+  white-space: nowrap;
+}
+
+.teaching-details {
+  margin-top: 0.35rem;
+  font-size: 0.92rem;
+  color: #555;
+}
+
+.teaching-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.18rem 0.5rem;
+  border-radius: 999px;
+  background: #f4f4f4;
+  margin: 0.45rem 0.2rem 0 0;
+}
+
+.teaching-award {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.18rem 0.5rem;
+  border-radius: 999px;
+  background: #fff4d6;
+  margin: 0.45rem 0.2rem 0 0;
+}
+</style>
+
 <div class="teaching-list">
 
 <div class="teaching-item">
@@ -24,7 +85,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Harvard University · Sophomore Tutorial</div>
   <span class="teaching-tag">Instructor</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
 <div class="teaching-item">
@@ -34,7 +94,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Harvard University · Sophomore Tutorial</div>
   <span class="teaching-tag">Instructor</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
 <div class="teaching-item">
@@ -44,7 +103,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Harvard University · Junior Tutorial</div>
   <span class="teaching-tag">Instructor</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-award">Derek Bok Student Recognition of Teaching</span>
 </div>
 
@@ -55,7 +113,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Harvard University · Instructor: Jonathan D. Bobaljik</div>
   <span class="teaching-tag">Fellow Instructor</span>
-  <span class="teaching-level grad">Graduate</span>
 </div>
 
 <div class="teaching-item">
@@ -65,7 +122,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Harvard University · Instructor: Adam R. Singerman</div>
   <span class="teaching-tag">Teaching Fellow</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-award">Derek Bok Teaching Award</span>
 </div>
 
@@ -76,7 +132,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Harvard University · Instructor: Jonathan D. Bobaljik</div>
   <span class="teaching-tag">Teaching Fellow</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-award">Derek Bok Teaching Award</span>
 </div>
 
@@ -87,7 +142,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Harvard University · Instructor: Yağmur Sağ-Parvardeh</div>
   <span class="teaching-tag">Teaching Fellow</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
 <div class="teaching-item">
@@ -97,7 +151,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Mine Nakipoğlu</div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">73 students</span>
 </div>
 
@@ -108,7 +161,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Kadir Gökgöz</div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">58 students</span>
 </div>
 
@@ -119,7 +171,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Sumru Özsoy</div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
 <div class="teaching-item">
@@ -129,7 +180,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Stefano Canalis</div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">51 students</span>
 </div>
 
@@ -140,7 +190,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Kadir Gökgöz</div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">53 students</span>
 </div>
 
@@ -151,7 +200,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Balkız Öztürk</div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">53 students</span>
 </div>
 
@@ -162,7 +210,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Kadir Gökgöz</div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">42 students</span>
 </div>
 
@@ -173,7 +220,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details"><a href="https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217">Turkish Language and Culture Program</a></div>
   <span class="teaching-tag">Instructor</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">Speaking</span>
 </div>
 
@@ -184,7 +230,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details"><a href="https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217">Turkish Language and Culture Program</a></div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">Grammar</span>
   <span class="teaching-tag">Writing</span>
   <span class="teaching-tag">Reading</span>
@@ -192,3 +237,4 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 </div>
 
 </div>
+```
