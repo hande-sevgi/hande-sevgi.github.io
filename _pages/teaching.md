@@ -17,7 +17,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 
 <style>
   .teaching-list { display: flex; flex-direction: column; gap: 0.85rem; margin-top: 1.5rem; } 
-  .teaching-item { border: 1px solid #eadfd8; border-left: 6px solid #8b5e4a; border-radius: 14px; padding: 1rem 1.15rem; background: #fff; box-shadow: 0 2px 8px rgba(80, 45, 25, 0.06); } 
+  .teaching-item { border: 1px solid #7a2635; border-left: 6px solid #a8514a; border-radius: 14px; padding: 1rem 1.15rem; background: #fff; box-shadow: 0 2px 8px rgba(80, 45, 25, 0.06); } 
   .teaching-item.harvard { border-left-color: #7a1f2b; } 
   .teaching-item.bogazici { border-left-color: #2f6f73; } 
   .teaching-item.language-program { border-left-color: #8b6f2f; } 
