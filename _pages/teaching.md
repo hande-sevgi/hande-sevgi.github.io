@@ -135,7 +135,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
-<div class="teaching-item harvard">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 97R: <em>A Brief Introduction to Sign Language Linguistics</em></div>
     <div class="teaching-term">Spring 2023</div>
