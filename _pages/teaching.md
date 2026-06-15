@@ -15,7 +15,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 <br>
 <br>
 
-```html
 <style>
 .teaching-list {
   display: flex;
@@ -25,12 +24,12 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 }
 
 .teaching-item {
-  border: 1px solid #e6e6e6;
-  border-left: 6px solid #999;
+  border: 1px solid #eadfd8;
+  border-left: 6px solid #8b5e4a;
   border-radius: 14px;
   padding: 1rem 1.15rem;
-  background: #fff;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.035);
+  background: #fffaf7;
+  box-shadow: 0 2px 8px rgba(80, 45, 25, 0.06);
 }
 
 .teaching-item.harvard {
@@ -56,193 +55,227 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 .teaching-course {
   font-size: 1.05rem;
   font-weight: 600;
+  color: #3f2a23;
 }
 
 .teaching-term {
   font-size: 0.9rem;
-  color: #666;
+  color: #7a6a61;
   white-space: nowrap;
 }
 
 .teaching-details {
   margin-top: 0.35rem;
   font-size: 0.92rem;
-  color: #555;
+  color: #5f514b;
 }
 
 .teaching-tag {
   display: inline-block;
   font-size: 0.75rem;
-  padding: 0.18rem 0.5rem;
+  padding: 0.18rem 0.55rem;
   border-radius: 999px;
-  background: #f4f4f4;
+  background: #f1e5dd;
+  color: #4a332b;
   margin: 0.45rem 0.2rem 0 0;
+}
+
+.teaching-item.harvard .teaching-tag {
+  background: #f4e1e4;
+  color: #6d1c27;
+}
+
+.teaching-item.bogazici .teaching-tag {
+  background: #dff0ef;
+  color: #235b5f;
+}
+
+.teaching-item.language-program .teaching-tag {
+  background: #f4ecd6;
+  color: #6f5720;
 }
 
 .teaching-award {
   display: inline-block;
   font-size: 0.75rem;
-  padding: 0.18rem 0.5rem;
+  padding: 0.18rem 0.55rem;
   border-radius: 999px;
-  background: #fff4d6;
+  background: #fff0b8;
+  color: #7a5a00;
   margin: 0.45rem 0.2rem 0 0;
 }
 </style>
 
 <div class="teaching-list">
 
-<div class="teaching-item harvard">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 97R: <em>Sign Languages and Linguistics</em></div>
     <div class="teaching-term">Spring 2024</div>
   </div>
   <div class="teaching-details">Harvard University · Sophomore Tutorial</div>
   <span class="teaching-tag">Instructor</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
-<div class="teaching-item harvard">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 97R: <em>A Brief Introduction to Sign Language Linguistics</em></div>
     <div class="teaching-term">Spring 2023</div>
   </div>
   <div class="teaching-details">Harvard University · Sophomore Tutorial</div>
   <span class="teaching-tag">Instructor</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
-<div class="teaching-item harvard">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 98A: <em>Understanding Language through Sign Languages</em></div>
     <div class="teaching-term">Fall 2022</div>
   </div>
   <div class="teaching-details">Harvard University · Junior Tutorial</div>
   <span class="teaching-tag">Instructor</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-award">Derek Bok Student Recognition of Teaching</span>
 </div>
 
-<div class="teaching-item harvard">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 241B: <em>Practicum</em></div>
     <div class="teaching-term">Spring 2024</div>
   </div>
   <div class="teaching-details">Harvard University · Instructor: Jonathan D. Bobaljik</div>
   <span class="teaching-tag">Fellow Instructor</span>
+  <span class="teaching-level grad">Graduate</span>
 </div>
 
-<div class="teaching-item harvard">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 83: <em>Language, Structure, and Cognition</em></div>
     <div class="teaching-term">Spring 2022</div>
   </div>
   <div class="teaching-details">Harvard University · Instructor: Adam R. Singerman</div>
   <span class="teaching-tag">Teaching Fellow</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-award">Derek Bok Teaching Award</span>
 </div>
 
-<div class="teaching-item harvard">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 104: <em>Word Structure</em></div>
     <div class="teaching-term">Fall 2021</div>
   </div>
   <div class="teaching-details">Harvard University · Instructor: Jonathan D. Bobaljik</div>
   <span class="teaching-tag">Teaching Fellow</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-award">Derek Bok Teaching Award</span>
 </div>
 
-<div class="teaching-item harvard">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 101: <em>The Science of Language: An Introduction</em></div>
     <div class="teaching-term">Fall 2021</div>
   </div>
   <div class="teaching-details">Harvard University · Instructor: Yağmur Sağ-Parvardeh</div>
   <span class="teaching-tag">Teaching Fellow</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
-<div class="teaching-item bogazici">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 202: <em>Morphology</em></div>
     <div class="teaching-term">Spring 2019</div>
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Mine Nakipoğlu</div>
   <span class="teaching-tag">Teaching Assistant</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">73 students</span>
 </div>
 
-<div class="teaching-item bogazici">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 104: <em>Phonetics</em></div>
     <div class="teaching-term">Spring 2019</div>
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Kadir Gökgöz</div>
   <span class="teaching-tag">Teaching Assistant</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">58 students</span>
 </div>
 
-<div class="teaching-item bogazici">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 203: <em>Syntax</em></div>
     <div class="teaching-term">Fall 2018</div>
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Sumru Özsoy</div>
   <span class="teaching-tag">Teaching Assistant</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
-<div class="teaching-item bogazici">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 201: <em>Phonology</em></div>
     <div class="teaching-term">Fall 2018</div>
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Stefano Canalis</div>
   <span class="teaching-tag">Teaching Assistant</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">51 students</span>
 </div>
 
-<div class="teaching-item bogazici">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 104: <em>Phonetics</em></div>
     <div class="teaching-term">Spring 2018</div>
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Kadir Gökgöz</div>
   <span class="teaching-tag">Teaching Assistant</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">53 students</span>
 </div>
 
-<div class="teaching-item bogazici">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 314: <em>Syntax and Semantics of Modern Turkish</em></div>
     <div class="teaching-term">Spring 2018</div>
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Balkız Öztürk</div>
   <span class="teaching-tag">Teaching Assistant</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">53 students</span>
 </div>
 
-<div class="teaching-item bogazici">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 201: <em>Phonology</em></div>
     <div class="teaching-term">Fall 2017</div>
   </div>
   <div class="teaching-details">Boğaziçi University · Instructor: Kadir Gökgöz</div>
   <span class="teaching-tag">Teaching Assistant</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">42 students</span>
 </div>
 
-<div class="teaching-item language-program">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course"><em>Speaking Course for Pre-Intermediate Turkish</em></div>
     <div class="teaching-term">Summer 2019</div>
   </div>
   <div class="teaching-details"><a href="https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217">Turkish Language and Culture Program</a></div>
   <span class="teaching-tag">Instructor</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">Speaking</span>
 </div>
 
-<div class="teaching-item language-program">
+<div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course"><em>Advanced Turkish</em></div>
     <div class="teaching-term">Summer 2018</div>
   </div>
   <div class="teaching-details"><a href="https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217">Turkish Language and Culture Program</a></div>
   <span class="teaching-tag">Teaching Assistant</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">Grammar</span>
   <span class="teaching-tag">Writing</span>
   <span class="teaching-tag">Reading</span>
@@ -250,4 +283,3 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 </div>
 
 </div>
-```
