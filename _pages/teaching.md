@@ -28,7 +28,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   border-left: 6px solid #8b5e4a;
   border-radius: 14px;
   padding: 1rem 1.15rem;
-  background: #fffaf7;
+  background: #fff;
   box-shadow: 0 2px 8px rgba(80, 45, 25, 0.06);
 }
 
@@ -50,6 +50,23 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   gap: 1rem;
   align-items: baseline;
   flex-wrap: wrap;
+}
+  .teaching-level {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  margin: 0.45rem 0.2rem 0 0;
+}
+
+.teaching-level.undergrad {
+  background: #e9f3df;
+  color: #3d6429;
+}
+
+.teaching-level.grad {
+  background: #e4ebff;
+  color: #263f82;
 }
 
 .teaching-course {
@@ -264,7 +281,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details"><a href="https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217">Turkish Language and Culture Program</a></div>
   <span class="teaching-tag">Instructor</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">Speaking</span>
 </div>
 
@@ -275,7 +291,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   </div>
   <div class="teaching-details"><a href="https://bogazici.edu.tr/en/pages/turkish-language-and-culture-program/217">Turkish Language and Culture Program</a></div>
   <span class="teaching-tag">Teaching Assistant</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">Grammar</span>
   <span class="teaching-tag">Writing</span>
   <span class="teaching-tag">Reading</span>
