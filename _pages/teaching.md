@@ -17,7 +17,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 
 <style>
   .teaching-list { display: flex; flex-direction: column; gap: 0.85rem; margin-top: 1.5rem; } 
-  .teaching-item { border: 1px solid #eadfd8; border-left: 6px solid #8b5e4a; border-radius: 14px; padding: 1rem 1.15rem; background: #fffaf7; box-shadow: 0 2px 8px rgba(80, 45, 25, 0.06); } 
+  .teaching-item { border: 1px solid #eadfd8; border-left: 6px solid #8b5e4a; border-radius: 14px; padding: 1rem 1.15rem; background: #fff; box-shadow: 0 2px 8px rgba(80, 45, 25, 0.06); } 
   .teaching-item.harvard { border-left-color: #7a1f2b; } 
   .teaching-item.bogazici { border-left-color: #2f6f73; } 
   .teaching-item.language-program { border-left-color: #8b6f2f; } 
@@ -52,7 +52,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   
 <div class="teaching-top"> <div class="teaching-course">Ling 104: <em>Phonetics</em></div> <div class="teaching-term">Spring 2019</div> </div> <div class="teaching-details">Boğaziçi University · Instructor: Kadir Gökgöz</div> <span class="teaching-level grad">Undergraduate</span> <span class="teaching-tag">Teaching Assistant</span> <span class="teaching-tag">58 students</span> </div> <div class="teaching-item"> 
   
-<div class="teaching-top"> <div class="teaching-course">Ling 203: <em>Syntax</em></div> <div class="teaching-term">Fall 2018</div> </div> <div class="teaching-details">Boğaziçi University · Instructor: Sumru Özsoy</div> <span class="teaching-tag">Teaching Assistant</span> <span class="teaching-level grad">Undergraduate</span> </div> 
+<div class="teaching-top"> <div class="teaching-course">Ling 203: <em>Syntax</em></div> <div class="teaching-term">Fall 2018</div> </div> <div class="teaching-details">Boğaziçi University · Instructor: Sumru Özsoy</div> <span class="teaching-level grad">Undergraduate</span> <span class="teaching-tag">Teaching Assistant</span> </div> 
 
 <div class="teaching-item"> <div class="teaching-top"> <div class="teaching-course">Ling 201: <em>Phonology</em></div> <div class="teaching-term">Fall 2018</div> </div> <div class="teaching-details">Boğaziçi University · Instructor: Stefano Canalis</div> <span class="teaching-level grad">Undergraduate</span> <span class="teaching-tag">Teaching Assistant</span> <span class="teaching-tag">51 students</span> </div> <div class="teaching-item"> 
   
