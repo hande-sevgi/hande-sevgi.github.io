@@ -26,10 +26,23 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 
 .teaching-item {
   border: 1px solid #e6e6e6;
+  border-left: 6px solid #999;
   border-radius: 14px;
   padding: 1rem 1.15rem;
   background: #fff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.035);
+}
+
+.teaching-item.harvard {
+  border-left-color: #7a1f2b;
+}
+
+.teaching-item.bogazici {
+  border-left-color: #2f6f73;
+}
+
+.teaching-item.language-program {
+  border-left-color: #8b6f2f;
 }
 
 .teaching-top {
