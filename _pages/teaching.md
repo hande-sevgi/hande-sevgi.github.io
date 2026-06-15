@@ -78,7 +78,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 
 <div class="teaching-list">
 
-<div class="teaching-item">
+<div class="teaching-item harvard">
   <div class="teaching-top">
     <div class="teaching-course">Ling 97R: <em>Sign Languages and Linguistics</em></div>
     <div class="teaching-term">Spring 2024</div>
@@ -87,7 +87,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">Instructor</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item harvard">
   <div class="teaching-top">
     <div class="teaching-course">Ling 97R: <em>A Brief Introduction to Sign Language Linguistics</em></div>
     <div class="teaching-term">Spring 2023</div>
@@ -96,7 +96,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">Instructor</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item harvard">
   <div class="teaching-top">
     <div class="teaching-course">Ling 98A: <em>Understanding Language through Sign Languages</em></div>
     <div class="teaching-term">Fall 2022</div>
@@ -106,7 +106,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-award">Derek Bok Student Recognition of Teaching</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item harvard">
   <div class="teaching-top">
     <div class="teaching-course">Ling 241B: <em>Practicum</em></div>
     <div class="teaching-term">Spring 2024</div>
@@ -115,7 +115,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">Fellow Instructor</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item harvard">
   <div class="teaching-top">
     <div class="teaching-course">Ling 83: <em>Language, Structure, and Cognition</em></div>
     <div class="teaching-term">Spring 2022</div>
@@ -125,7 +125,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-award">Derek Bok Teaching Award</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item harvard">
   <div class="teaching-top">
     <div class="teaching-course">Ling 104: <em>Word Structure</em></div>
     <div class="teaching-term">Fall 2021</div>
@@ -135,7 +135,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-award">Derek Bok Teaching Award</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item harvard">
   <div class="teaching-top">
     <div class="teaching-course">Ling 101: <em>The Science of Language: An Introduction</em></div>
     <div class="teaching-term">Fall 2021</div>
@@ -144,7 +144,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">Teaching Fellow</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item bogazici">
   <div class="teaching-top">
     <div class="teaching-course">Ling 202: <em>Morphology</em></div>
     <div class="teaching-term">Spring 2019</div>
@@ -154,7 +154,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">73 students</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item bogazici">
   <div class="teaching-top">
     <div class="teaching-course">Ling 104: <em>Phonetics</em></div>
     <div class="teaching-term">Spring 2019</div>
@@ -164,7 +164,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">58 students</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item bogazici">
   <div class="teaching-top">
     <div class="teaching-course">Ling 203: <em>Syntax</em></div>
     <div class="teaching-term">Fall 2018</div>
@@ -173,7 +173,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">Teaching Assistant</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item bogazici">
   <div class="teaching-top">
     <div class="teaching-course">Ling 201: <em>Phonology</em></div>
     <div class="teaching-term">Fall 2018</div>
@@ -183,7 +183,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">51 students</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item bogazici">
   <div class="teaching-top">
     <div class="teaching-course">Ling 104: <em>Phonetics</em></div>
     <div class="teaching-term">Spring 2018</div>
@@ -193,7 +193,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">53 students</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item bogazici">
   <div class="teaching-top">
     <div class="teaching-course">Ling 314: <em>Syntax and Semantics of Modern Turkish</em></div>
     <div class="teaching-term">Spring 2018</div>
@@ -203,7 +203,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">53 students</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item bogazici">
   <div class="teaching-top">
     <div class="teaching-course">Ling 201: <em>Phonology</em></div>
     <div class="teaching-term">Fall 2017</div>
@@ -213,7 +213,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">42 students</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item language-program">
   <div class="teaching-top">
     <div class="teaching-course"><em>Speaking Course for Pre-Intermediate Turkish</em></div>
     <div class="teaching-term">Summer 2019</div>
@@ -223,7 +223,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   <span class="teaching-tag">Speaking</span>
 </div>
 
-<div class="teaching-item">
+<div class="teaching-item language-program">
   <div class="teaching-top">
     <div class="teaching-course"><em>Advanced Turkish</em></div>
     <div class="teaching-term">Summer 2018</div>
