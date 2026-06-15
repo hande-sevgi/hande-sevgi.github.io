@@ -2,7 +2,7 @@
 layout: course
 title: Language, Structure and Cognition
 description: You can find the section handouts I prepared for the introduction course I supported as a teaching fellow at Harvard.
-year: 2023
+year: 2022
 term: Spring
 instructor:
 course_id:  Language, Structure and Cognition
