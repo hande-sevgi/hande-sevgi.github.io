@@ -15,7 +15,6 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 <br>
 <br>
 
-```html
 <div class="teaching-list">
 
 <div class="teaching-item">
@@ -193,4 +192,3 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 </div>
 
 </div>
-```
