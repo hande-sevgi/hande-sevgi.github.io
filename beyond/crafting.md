@@ -93,11 +93,18 @@ permalink: /beyond/crafting/
 ---
 ## **Building blocks**
 {: #tiny-house}
-  
+One of the hardest parts of the PhD for me was not being able to see the product for a long time. So many hours went into working, thinking, analyzing, brainstorming, rewriting, and starting again, and sometimes it felt as if one sitting could undo days of effort. Many times I asked myself: What am I doing? Where is the outcome?
+
+These tiny projects became a kind of relief during those difficult times. Each small block was visible. Each piece existed. And when I brought them together, they became something larger: a little house, a small world, proof that my hands and my mind had made something.
+
 <div style="text-align:center;">
   <img src="/assets/img/IMG_1031.jpeg"
        style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
 </div>
+
+I felt not only crafty, but also a little techy. You can see my little lamp floor working here. It was supposed to be a ceiling lamp, but I messed it up, so I will need to recreate it. Still, even that feels fitting. Some things do not become what they were supposed to become, but they still light up.
+
+I wonder whether everyone feels this way sometimes. No outcome can feel like no work. I know that is not true, but I still struggle with it. There are many lessons I am still learning: about patience, process, failure, repair, and the quiet value of things that take time to become visible.
 
 [Back to projects](#projects)
 
