@@ -25,7 +25,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 
 .teaching-item {
   border: 1px solid #eadfd8;
-  border-left: 6px solid #8b5e4a;
+  border-left: 6px solid #4b5e4a;
   border-radius: 14px;
   padding: 1rem 1.15rem;
   background: #fff;
