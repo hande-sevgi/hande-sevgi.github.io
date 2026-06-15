@@ -92,8 +92,8 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   font-size: 0.75rem;
   padding: 0.18rem 0.55rem;
   border-radius: 999px;
-  background: #f1e5dd;
-  color: #FFD1DC;
+  background: #FFD1DC;
+  color: #4a332b;
   margin: 0.45rem 0.2rem 0 0;
 }
 
