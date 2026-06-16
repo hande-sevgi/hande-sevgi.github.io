@@ -117,6 +117,14 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   background: #e4ebff;
   color: #263f82;
 }
+.teaching-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+.teaching-link:hover {
+  text-decoration: underline;
+}
+     
 /* Dark mode fixes */
 html[data-theme="dark"] .teaching-item,
 body[data-theme="dark"] .teaching-item,
@@ -196,7 +204,9 @@ body[data-theme="dark"] .teaching-item.language-program,
   <div class="teaching-details">Harvard University · Sophomore Tutorial</div>
   <span class="teaching-role">Instructor</span>
   <span class="teaching-level undergrad">Undergraduate</span>
-     <a class="teaching-tag teaching-link"href="/teachings/sign-languages-and-linguistics/">Syllabus
+     <a class="teaching-tag teaching-link"
+          href="/teachings/sign-languages-and-linguistics/"
+          Syllabus
   </a>
 </div>
 
