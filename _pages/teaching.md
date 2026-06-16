@@ -16,7 +16,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
 <br>
 <br>
 
-Here is a complete list of courses that I taught or supported as a graduate student at Harvard and Boğaziçi.
+Here is a complete list of the courses that I taught or supported as a graduate student at Harvard and Boğaziçi.
 
 <style>
 .teaching-list {
