@@ -76,15 +76,15 @@ So for my experiments, I started creating GIFs from scratch (I still do not know
        style="width:480px; height:360px; object-fit:cover; border-radius:20%;">
 </div>
 
-My only complaint is that some people thought they were AI-generated. Shame on them.
+My only complaint is that some people thought they were AI-generated. That broke my heart 🥲.
 
-They may look unprofessional, strange, or even ugly, but they are all my babies.
+They may look unprofessional, strange, or even ugly, but [they]() are all my babies.
 
 ## **Accepting imperfections**
 {: #tiny-yellow-bag}
 
 <p>I still do not know the formal definition of perfectionism, but lately I have been realizing that it does not necessarily lead to perfect outcomes. More often, it eats away at the joy of creating because you expect yourself to do everything flawlessly. And sometimes the result is not doing anything at all.</p>
-<sdiv style="text-align:center;">
+<div style="text-align:center;">
   <img src="/assets/img/IMG_1028.jpeg"
        alt="Tiny yellow bag"
        style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
