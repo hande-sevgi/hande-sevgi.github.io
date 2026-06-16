@@ -9,7 +9,7 @@ nav_order: 5
 <img src="/assets/img/Sevgi_teaching.png"
      style="max-width: 360px; width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
 <br>
-Teaching has been an important part of my academic life. At Harvard, I received a teaching certificate through the Bok Center for Teaching and Learning after participating in seminars and workshops on pedagogy, course design, inclusive teaching, feedback, and student learning. I also worked as a Pedagogy Fellow, collaborating with peers and the Bok Center to support teaching development across the graduate-student community. My teaching has been recognized with Derek Bok teaching awards and student recognition for excellence in instruction.
+Teaching has been an important part of my academic life. At Harvard, I received a teaching certificate through the Bok Center for Teaching and Learning after participating in seminars and workshops on pedagogy, course design, inclusive teaching, feedback, and student learning. I also worked as a Pedagogy Fellow, collaborating with [the Bok Center](https://bokcenter.harvard.edu) and peer pedagogy fellows to support teaching development across the graduate-student community. My teaching has been recognized with Derek Bok teaching awards and student recognition for excellence in instruction.
 <br>
 <br>
 {% include courses.liquid %}
