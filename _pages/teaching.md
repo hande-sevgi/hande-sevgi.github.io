@@ -205,7 +205,7 @@ body[data-theme="dark"] .teaching-item.language-program,
   <span class="teaching-role">Instructor</span>
   <span class="teaching-level undergrad">Undergraduate</span>
      <a class="teaching-tag teaching-link"
-          href="/teachings/sign-languages-and-linguistics/"
+          href="/teachings/sign-languages-and-linguistics/">
           Syllabus
   </a>
 </div>
