@@ -77,7 +77,7 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   font-size: 0.75rem;
   padding: 0.18rem 0.55rem;
   border-radius: 999px;
-  background: #f1e5dd;
+  background: #c9a0dc;
   color: #4a332b;
   margin: 0.45rem 0.2rem 0 0;
 }
@@ -143,6 +143,12 @@ html[data-theme="dark"] .teaching-tag,
 body[data-theme="dark"] .teaching-tag,
 [data-theme="dark"] .teaching-tag {
   background: #343434;
+  color: #f0f0f0;
+}
+html[data-theme="dark"] .teaching-role,
+body[data-theme="dark"] .teaching-role,
+[data-theme="dark"] .teaching-role {
+  background: #55768e;
   color: #f0f0f0;
 }
 html[data-theme="dark"] .teaching-award,
@@ -292,7 +298,7 @@ body[data-theme="dark"] .teaching-item.language-program,
     <div class="teaching-course">Ling 201: <em>Phonology</em></div>
     <div class="teaching-term">Fall 2018</div>
   </div>
-  <div class="teaching-details">BoÄaziÃ§i University Â· Instructor: Stefano Canalis</div>
+  <div class="teaching-details">Boğaziçi University · Instructor: Stefano Canalis</div>
   <span class="teaching-role">Teaching Assistant</span>
   <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">51 students</span>
@@ -314,7 +320,7 @@ body[data-theme="dark"] .teaching-item.language-program,
     <div class="teaching-course">Ling 314: <em>Syntax and Semantics of Modern Turkish</em></div>
     <div class="teaching-term">Spring 2018</div>
   </div>
-  <div class="teaching-details">Boğaziçi University · Instructor: BalkızÖztürk</div>
+  <div class="teaching-details">Boğaziçi University · Instructor: Balkız Öztürk</div>
   <span class="teaching-role">Teaching Assistant</span>
   <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">53 students</span>
