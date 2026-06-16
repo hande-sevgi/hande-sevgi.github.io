@@ -118,10 +118,14 @@ Teaching has been an important part of my academic life. At Harvard, I received 
   color: #263f82;
 }
 .teaching-link {
+  background: #7a1f2b;
+  color: #ffffff;
   text-decoration: none;
   cursor: pointer;
 }
 .teaching-link:hover {
+  background: #9b2f40;
+  color: #ffffff;
   text-decoration: underline;
 }
      
