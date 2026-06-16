@@ -63,7 +63,7 @@ permalink: /beyond/crafting/
 </div>
 
 ---
-## Perks of intgrating your hobbies into your research
+## Perks of integrating your hobbies into your research
 {: #gif-or-jif}
 
 I have always been into drawing and painting, in a very old-school way. Time has changed, and technology is everywhere now. This was just before the popular era of AI (or maybe I was simply unaware of the recent advancements) and after the traditional pen-and-paper days.
