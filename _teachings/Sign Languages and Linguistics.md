@@ -48,17 +48,14 @@ Please remember that your physical and mental health are more important than any
 I am the instructor of this tutorial, but I work as a Teaching Fellow at Harvard University. You may know that Teaching Fellows are mandatory reporters, or in Harvard’s Title IX terminology, ‘responsible employees’. That means I’m not legally confidential, and if I’m informed of any potential Title IX-violating situations involving my student(s), I am obligated to report it along with the name of the student(s) involved to the Title IX office. If an incident like this affects your participation in the class in some way, I want you to be able to tell me whatever necessary part you are comfortable with, but you should be aware of my responsibilities ahead of time.
 
 ## Useful Resources
-SpreadTheSign: A comprehensive online resource featuring lexicons from various sign languages, making it an excellent tool for cross-linguistic comparisons.
-- url: https://www.spreadthesign.com/en.us/search/
+[SpreadTheSign:](https://www.spreadthesign.com/en.us/search) A comprehensive online resource featuring lexicons from various sign languages, making it an excellent tool for cross-linguistic comparisons.
 
-ASL Dictionaries: Several online resources provide video demonstrations of individual ASL signs, offering valuable references for learners and researchers.
-[https://www.handspeak.com/word/]
 
-ELAN: A widely used annotation tool for audio and video recordings. If you are interested in analyzing sign language data, you can download the software here.
-[https://archive.mpi.nl/tla/elan/download]
+[Other ASL Dictionaries:](https://www.handspeak.com/word/) Several online resources provide video demonstrations of individual ASL signs, offering valuable references for learners and researchers.
 
-Handshape Font for Word: A downloadable font specifically designed for representing handshapes in sign language documentation.
-[https://eng.m.fontke.com/font/10135440/{
+[ELAN:](https://archive.mpi.nl/tla/elan/download) A widely used annotation tool for audio and video recordings. If you are interested in analyzing sign language data, you can download the software here.
+
+[Handshape Font for Word:](https://eng.m.fontke.com/font/10135440/) A downloadable font specifically designed for representing handshapes in sign language documentation.
+
   
-LaTeX Resources: If you are \LaTeX{} person, you can use this handshape font by adjusting the compiler settings to *LuaLaTeX*. In addition, the *slgloss* package by Fabian Bross is a valuable tool for working with sign language data.
-[https://github.com/itamarkast/slgloss]
+LaTeX Resources: If you are \LaTeX{} person, you can use this handshape font by adjusting the compiler settings to *LuaLaTeX*. In addition, [the slgloss package](https://github.com/itamarkast/slgloss) by Fabian Bross is a valuable tool for working with sign language data.
