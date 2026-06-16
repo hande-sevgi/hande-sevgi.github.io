@@ -52,13 +52,13 @@ SpreadTheSign: A comprehensive online resource featuring lexicons from various s
 - url: https://www.spreadthesign.com/en.us/search/
 
 ASL Dictionaries: Several online resources provide video demonstrations of individual ASL signs, offering valuable references for learners and researchers.
-- url: https://www.handspeak.com/word/
+[https://www.handspeak.com/word/]
 
 ELAN: A widely used annotation tool for audio and video recordings. If you are interested in analyzing sign language data, you can download the software here.
-- url: https://archive.mpi.nl/tla/elan/download
+[https://archive.mpi.nl/tla/elan/download]
 
-Handshape Font for Word: A downloadable font specifically designed for representing handshapes in sign language documentation.\\
-- url: https://eng.m.fontke.com/font/10135440/
+Handshape Font for Word: A downloadable font specifically designed for representing handshapes in sign language documentation.
+[https://eng.m.fontke.com/font/10135440/{
   
 LaTeX Resources: If you are \LaTeX{} person, you can use this handshape font by adjusting the compiler settings to *LuaLaTeX*. In addition, the *slgloss* package by Fabian Bross is a valuable tool for working with sign language data.
-- url: https://github.com/itamarkast/slgloss
+[https://github.com/itamarkast/slgloss]
