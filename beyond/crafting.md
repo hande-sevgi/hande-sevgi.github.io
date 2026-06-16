@@ -73,7 +73,7 @@ So for my experiments, I started creating GIFs from scratch (I still do not know
 <div style="text-align:center;">
   <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/paper_M.gif"
        alt="Gifs or jifs"
-       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
+       style="width:480px; height:360px; object-fit:cover; border-radius:20%;">
 </div>
 
 My only complaint is that some people thought they were AI-generated. Shame on them.
