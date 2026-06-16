@@ -250,6 +250,10 @@ body[data-theme="dark"] .teaching-item.language-program,
   <span class="teaching-role">Teaching Fellow</span>
   <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-award">Derek Bok Teaching Award</span>
+  <a class="teaching-tag teaching-link"
+          href="/teachings/language-structure-cognition/">
+          Section Materials
+  </a>
 </div>
 
 <div class="teaching-item">
