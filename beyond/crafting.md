@@ -71,7 +71,7 @@ I have always been into drawing and painting, in a very old-school way. Time has
 So for my experiments, I started creating GIFs from scratch (I still do not know how to pronounce that word). I learned how to make animations by placing images next to each other and moving things inch by inch, frame by frame. To many people, this might seem like a waste of time. I disagree. It was one of the rare periods in my research when I enjoyed my time without feeling guilty.
 
 <div style="text-align:center;">
-  <img src="[/assets/img/IMG_1028.jpeg](https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/paper_M.gif)"
+  <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/paper_M.gif"
        alt="Gifs or jifs"
        style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
 </div>
