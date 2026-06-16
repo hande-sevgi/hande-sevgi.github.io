@@ -120,13 +120,13 @@ Here is a complete list of the courses that I taught or supported as a graduate 
   color: #263f82;
 }
 .teaching-link {
-  background: #dc7e8a;
+  background: #DEABDC;
   color: #7a1f2b;
   text-decoration: none;
   cursor: pointer;
 }
 .teaching-link:hover {
-  background: #cc4859;
+  background: #E05ED1;
   color: #7a1f2b;
   text-decoration: underline;
 }
