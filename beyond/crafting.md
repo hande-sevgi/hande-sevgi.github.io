@@ -35,7 +35,7 @@ permalink: /beyond/crafting/
 
 <div class="craft-grid">
   
-<a class="craft-card" href="#gif-or-jif>
+  <a class="craft-card" href="#gif-or-jif">
     <img src="/paper_M.gif" alt="Gifs all around">
   </a>
   
