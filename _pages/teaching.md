@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: You can find below a list of courses I have taught or supported, along with selected syllabi and teaching materials. Please feel free to contact me for additional course materials.
+description:
 nav: true
 nav_order: 5
 ---
