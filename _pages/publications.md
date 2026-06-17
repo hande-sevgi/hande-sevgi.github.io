@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
+Feel free to reach out by email if you have any trouble accessing the files.
 
 <!-- _pages/publications.md -->
 
