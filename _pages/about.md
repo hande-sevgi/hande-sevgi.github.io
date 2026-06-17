@@ -35,5 +35,10 @@ At Harvard, I was affiliated with the [Meaning and Modality Lab](https://meaning
 
 Before joining Harvard, I completed my M.A. in Linguistics at Boğaziçi University. My thesis, advised by [Kadir Gökgöz](https://linguistics.bogazici.edu.tr/kadir-gokgoz), with [Balkız Öztürk](https://linguistics.bogazici.edu.tr/balkiz-ozturk-basaran) and [Nihan Ketrez](https://nihanketrez.wordpress.com/) on the committee, investigated age-of-acquisition effects in Turkish Sign Language (TİD), focusing on complex structures such as classifiers and coordination. This work continues to inform my interest in the relationship between grammatical structure, acquisition, and modality.
 <p align="center">
-  <img src="/assets/img/BU.png" width="750" alt="Boğaziçi University">
+  <img
+    src="/assets/img/BU.png"
+    alt="Boğaziçi University"
+    width="100%"
+    style="max-width: 750px; height: auto;"
+  >
 </p>
