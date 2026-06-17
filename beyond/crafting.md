@@ -73,7 +73,13 @@ So for my experiments, I started creating GIFs from scratch (I still do not know
 <div style="text-align:center;">
   <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/paper_M.gif"
        alt="Gifs or jifs"
-       style="width:480px; height:360px; object-fit:cover; border-radius:20%;">
+       style="
+         width: 100%;
+         max-width: 480px;
+         aspect-ratio: 1 / 1;
+         object-fit: cover;
+         border-radius: 20%;
+       ">
 </div>
 
 My only complaint is that some people thought they were AI-generated. That broke my heart 🥲.
@@ -84,10 +90,16 @@ They may look unprofessional, strange, or even ugly, but [they]() are all my bab
 {: #tiny-yellow-bag}
 
 <p>I still do not know the formal definition of perfectionism, but lately I have been realizing that it does not necessarily lead to perfect outcomes. More often, it eats away at the joy of creating because you expect yourself to do everything flawlessly. And sometimes the result is not doing anything at all.</p>
-<div style="text-align:center;">
+<div style="text-align: center;">
   <img src="/assets/img/IMG_1028.jpeg"
        alt="Tiny yellow bag"
-       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
+       style="
+         width: 100%;
+         max-width: 480px;
+         aspect-ratio: 1 / 1;
+         object-fit: cover;
+         border-radius: 50%;
+       ">
 </div>
 <p>Every stitch on this tiny yellow bag is the result of doing and undoing, starting over, feeling dissatisfied, and wanting to give up. Is it flawless now? No. Is it exactly what I had in mind? No. Could I have done better? Probably not, at least not with the skills and patience I had at that moment. Maybe part of growing up is learning to accept ourselves as we are instead of constantly measuring ourselves against impossible standards. It would be nice to understand where these feelings come from, but the current state of my mental health is not particularly helpful in answering that question. For now, perhaps it is enough to accept that something can be imperfect and still be worth making.</p>
 *Sending my love to my mom, who taught me these embroidery techniques many years ago.*
@@ -103,7 +115,13 @@ They may look unprofessional, strange, or even ugly, but [they]() are all my bab
 <div style="text-align:center;">
   <img src="/assets/img/IMG_1029.jpeg"
        alt="Color by numbers"
-       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
+       style="
+         width: 100%;
+         max-width: 480px;
+         aspect-ratio: 1 / 1;
+         object-fit: cover;
+         border-radius: 50%;
+       ">
 </div>
 
 <p>The same is true for paint-by-number kits. No need for creativity in choosing the colors. The decisions have already been made. Yet the sheer truth is that I enjoy the process immensely. I like filling in the spaces, watching the image slowly emerge, and allowing myself to focus on something simple without using too many brain cells or too much glucose. I am still not sure whether I believe in art for art's sake or art for people. What I do know is that, at this point in my life, art is for happiness. Maybe creating something does not have to be original to be meaningful. Maybe it only needs to make us want to keep creating.</p>
@@ -119,7 +137,13 @@ These tiny projects became a kind of relief during those difficult times. Each s
 
 <div style="text-align:center;">
   <img src="/assets/img/IMG_1031.jpeg"
-       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
+       style="
+         width: 100%;
+         max-width: 480px;
+         aspect-ratio: 1 / 1;
+         object-fit: cover;
+         border-radius: 50%;
+       ">
 </div>
 
 I felt not only crafty, but also a little techy. You can see my little lamp floor working here. It was supposed to be a ceiling lamp, but I messed it up, so I will need to recreate it. Still, even that feels fitting. Some things do not become what they were supposed to become, but they still light up.
@@ -137,7 +161,13 @@ I wonder whether everyone feels this way sometimes. No outcome can feel like no 
 <div style="text-align:center;">
   <img src="/assets/img/IMG_1030.jpeg"
        alt="Red!"
-       style="width:480px; height:480px; object-fit:cover; border-radius:50%;">
+       style="
+         width: 100%;
+         max-width: 480px;
+         aspect-ratio: 1 / 1;
+         object-fit: cover;
+         border-radius: 50%;
+       ">
 </div>
 
 <p>It sounds a little like language. Sounds become words, words become sentences, and small repeated choices begin to make something larger. Some patterns are regular, some shift slightly. The pattern is not always obvious while it is being made. Sometimes it only appears when one steps back and looks at the whole thing. What looks like a series of tiny loops may turn out to have been a structure all along.</p>
