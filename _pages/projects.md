@@ -9,6 +9,8 @@ display_categories: [research, in progress, random ideas]
 horizontal: false
 ---
 
+This page brings together selected ongoing and completed projects that form part of my broader research agenda on meaning, morphological structure, and modality in language.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
