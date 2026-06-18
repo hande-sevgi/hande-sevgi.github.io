@@ -21,6 +21,12 @@ Here I share some of the things I make in my leisure time, along with their fini
     <p>Recipes, experiments, and favorite dishes.</p>
   </a>
 
+ <a class="beyond-card" href="https://github.com/hande-sevgi/linguistics_research_chatbot">
+    <h2>In progress chatbot</h2>
+    <p>I am working on a chatbot to use in linguistic research to improve my skills to build.</p>
+  </a>
+
+
 <a class="beyond-card" href="/assets/pdf/Sevgi_Resume_Master.pdf">
     <h2>Resume</h2>
     <p>View or download my general resume.</p>
