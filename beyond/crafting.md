@@ -69,7 +69,6 @@ I have always been into drawing and painting, in a very old-school way. Time has
 
 So for my experiments, I started creating GIFs from scratch (I still do not know how to pronounce that word). I learned how to make animations by placing images next to each other and moving things inch by inch, frame by frame. To many people, this might seem like a waste of time. I disagree. It was one of the rare periods in my research when I enjoyed my time without feeling guilty.
 
-<div style="text-align:center;">
 <div style="text-align: center;">
   <img
     src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/Stimuli/paper_M.gif"
@@ -87,6 +86,10 @@ So for my experiments, I started creating GIFs from scratch (I still do not know
 My only complaint is that some people thought they were AI-generated. That broke my heart 🥲.
 
 They may look unprofessional, strange, or even ugly, but [they](https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/tree/main/Stimuli) are all my babies.
+
+[Back to projects](#projects)
+
+---
 
 ## **Accepting imperfections**
 {: #tiny-yellow-bag}
