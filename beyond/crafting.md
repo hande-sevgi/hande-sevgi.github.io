@@ -35,7 +35,7 @@ permalink: /beyond/crafting/
 
 <div class="craft-grid">
   
-<a class="craft-card" href="#gif-or-jif">   <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/Stimuli/leaf_M.gif" alt="Gifs all around"> </a>
+<a class="craft-card" href="#gif-or-jif">   <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/Stimuli/paper_M.gif" alt="Gifs all around"> </a>
   
   
   <a class="craft-card" href="#tiny-yellow-bag">
@@ -70,15 +70,18 @@ I have always been into drawing and painting, in a very old-school way. Time has
 So for my experiments, I started creating GIFs from scratch (I still do not know how to pronounce that word). I learned how to make animations by placing images next to each other and moving things inch by inch, frame by frame. To many people, this might seem like a waste of time. I disagree. It was one of the rare periods in my research when I enjoyed my time without feeling guilty.
 
 <div style="text-align:center;">
-  <img src="https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/blob/main/Stimuli/leaf_M.gif" alt="Gifs all around">
-       alt="Gifs or jifs"
-       style="
-         width: 100%;
-         max-width: 480px;
-         aspect-ratio: 1 / 1;
-         object-fit: cover;
-         border-radius: 20%;
-       ">
+<div style="text-align: center;">
+  <img
+    src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/Stimuli/paper_M.gif"
+    alt="Gifs or jifs"
+    style="
+      width: 100%;
+      max-width: 480px;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      border-radius: 20%;
+    "
+  >
 </div>
 
 My only complaint is that some people thought they were AI-generated. That broke my heart 🥲.
