@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-22'
 papers:
   vQjR-WcAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -33,3 +33,7 @@ papers:
     citations: 3
     title: Aspects of clause structure and morphology in Turkish Sign Language
     year: '2020'
+  vQjR-WcAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'Manner Modification Across Modalities: Insights from Gesture, Sign, and Spoken Language'
+    year: '2026'
