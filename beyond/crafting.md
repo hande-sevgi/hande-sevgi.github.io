@@ -76,7 +76,7 @@ So for my experiments, I started creating GIFs from scratch (I still do not know
     alt="Gifs or jifs"
     style="
       width: 100%;
-      max-width: 240px;
+      max-width: 360px;
       aspect-ratio: 1 / 1;
       object-fit: cover;
       border-radius: 20%;
