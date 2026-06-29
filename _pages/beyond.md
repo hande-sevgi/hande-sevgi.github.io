@@ -23,7 +23,7 @@ Here I share some of the things I make in my leisure time, along with their fini
 
  <a class="beyond-card" href="https://linguistics-research-chatbot.streamlit.app">
     <h2>In progress chatbot</h2>
-    <p>I am working on a chatbot to use in linguistic research to improve my skills to build.</p>
+    <p>I am working on a chatbot (for the moment it is just a search bot due to the financial limits) to use in linguistic research to improve my skills to build something. It is just ups and downs currently, still learning. </p>
   </a>
 
 
