@@ -3,7 +3,7 @@ layout: page
 title: Research at Boğaziçi
 description: Turkish, derivational suffixes, ideophones, productivity
 importance: 7
-related_publications: true
+related_publications: false
 category: random ideas
 ---
 Here you can find some research from my master’s degree at Boğaziçi, written about ten years ago. Looking back at this work now, the connections are much clearer than they were at the time. Jonathan (Bobaljik) once told me that each project we undertake often contributes to a larger research agenda, even when we do not yet recognize it. I used to think of myself as somewhat scattered in my interests, but revisiting these earlier projects, I can see recurring questions already taking shape such as negation, focus, ideophones, and the structure of a particular dialect. These are the main themes that overtake my research as you can see in my dissertation.
