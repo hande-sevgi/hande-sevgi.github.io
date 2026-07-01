@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research at Boğaziçi
-description: Turkish, derivational suffixes, ideophones, productivity
+description: Turkish, derivational suffixes, ideophones, focus particles, Trabzon dialect, vowel harmony
 importance: 7
 related_publications: false
 category: random ideas
