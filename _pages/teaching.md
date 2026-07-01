@@ -233,16 +233,12 @@ body[data-theme="dark"] .teaching-item.language-program,
      <div class="teaching-details">Harvard University · Instructor: Jonathan D. Bobaljik</div>
      <span class="teaching-role">Fellow Instructor</span> 
      <span class="teaching-level grad">Graduate</span> 
-     <span
-     <details class="teaching-materials"> 
-          <summary class="teaching-tag teaching-link"> Course material
-          </summary> 
+     <details class="teaching-materials"> Course materials
           <a class="teaching-material-links"> 
           <a href="/assets/pdf/Sevgi_TeachingatHarvard2024.pdf">Teaching at Harvard</a>
                <br> <a href="/assets/pdf/Sevgi_HowToDesignACourse2024.pdf">How to Design a Course</a> 
           </a> 
      </details>
-     </span> 
 </div>
 
 <div class="teaching-item">
