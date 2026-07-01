@@ -227,37 +227,18 @@ body[data-theme="dark"] .teaching-item.language-program,
 </div>
 
 <div class="teaching-item">
-  <div class="teaching-top">
-    <div class="teaching-course">Ling 98A: <em>Understanding Language through Sign Languages</em></div>
-    <div class="teaching-term">Fall 2022</div>
-  </div>
-  <div class="teaching-details">Harvard University · Junior Tutorial</div>
-  <span class="teaching-role">Instructor</span>
-  <span class="teaching-level undergrad">Undergraduate</span>
-  <span class="teaching-award">Derek Bok Student Recognition of Teaching</span>
-</div>
-
-<div class="teaching-top">
-    <div class="teaching-course">Ling 241B: <em>Practicum</em></div>
-    <div class="teaching-term">Spring 2024</div>
-  </div>
-
-  <div class="teaching-details">Harvard University · Instructor: Jonathan D. Bobaljik</div>
-
-  <span class="teaching-role">Fellow Instructor</span>
-  <span class="teaching-level grad">Graduate</span>
-
-  <details class="teaching-materials">
-    <summary class="teaching-tag teaching-link">
-      Course material
-    </summary>
-
-    <div class="teaching-material-links">
-      <a href="/assets/pdf/Sevgi_TeachingatHarvard2024.pdf">Teaching at Harvard</a><br>
-      <a href="/assets/pdf/Sevgi_HowToDesignACourse2024.pdf">How to Design a Course</a>
-    </div>
-  </details>
-</div>
+     <div class="teaching-top">
+          <div class="teaching-course">Ling 241B: <em>Practicum</em></div>
+          <div class="teaching-term">Spring 2024</div> </div> 
+     <div class="teaching-details">Harvard University · Instructor: Jonathan D. Bobaljik</div>
+     <span class="teaching-role">Fellow Instructor</span> 
+     <span class="teaching-level grad">Graduate</span> 
+     <details class="teaching-materials"> 
+          <summary class="teaching-tag teaching-link"> Course material
+          </summary> 
+          <a class="teaching-material-links"> 
+          <a href="/assets/pdf/Sevgi_TeachingatHarvard2024.pdf">Teaching at Harvard</a>
+               <br> <a href="/assets/pdf/Sevgi_HowToDesignACourse2024.pdf">How to Design a Course</a> </a> </details> </div>
 
 <div class="teaching-item">
   <div class="teaching-top">
