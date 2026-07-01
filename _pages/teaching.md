@@ -130,6 +130,24 @@ Here is a complete list of the courses that I taught or supported as a graduate 
   color: #7a1f2b;
   text-decoration: underline;
 }
+.teaching-materials {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+}
+
+.teaching-material-links {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 10;
+  min-width: 220px;
+  padding: 0.5rem;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin-top: 0.25rem;
+}
      
 /* Dark mode fixes */
 html[data-theme="dark"] .teaching-item,
@@ -233,10 +251,6 @@ body[data-theme="dark"] .teaching-item.language-program,
      <div class="teaching-details">Harvard University · Instructor: Jonathan D. Bobaljik</div>
      <span class="teaching-role">Fellow Instructor</span> 
      <span class="teaching-level grad">Graduate</span> 
-     <a class="teaching-tag teaching-link"
-          href="/teachings/sign-languages-and-linguistics/",
-          href="/teachings/sign-languages-and-linguistics/">Course materials
-     </a>
      <details class="teaching-materials">
           <summary class="teaching-tag teaching-link"> Course material </summary>
           <a href="/assets/pdf/Sevgi_TeachingatHarvard2024.pdf">Teaching at Harvard</a><br>
