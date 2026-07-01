@@ -249,10 +249,10 @@ body[data-theme="dark"] .teaching-item.language-program,
   <summary class="teaching-tag teaching-link">
     Course material
   </summary>
-  <div class="teaching-material-links">
-    <a href="/assets/pdf/Sevgi_TeachingatHarvard2024.pdf">File 1</a><br>
-    <a href="/assets/pdf/HowToDesignACourse2024.pdf">File 2</a>
-  </div>
+  <a class="teaching-material-links">
+    <a href="/assets/pdf/Sevgi_TeachingatHarvard2024.pdf">Teaching at Harvard 1</a><br>
+    <a href="/assets/pdf/Sevgi_HowToDesignACourse2024.pdf">How to Design a Course 2</a>
+  </a>
 </details>
 </div>
 
