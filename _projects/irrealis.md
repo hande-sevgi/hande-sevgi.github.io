@@ -5,7 +5,7 @@ description: Morphology, morphosemantics, meaning, Turkish
 importance: 8
 img:
 category: random ideas
-related_publications: true
+related_publications: false
 ---
 
 Turkish makes extensive use of derivational morphology, and the suffix -CI is among its most productive nominalizers. In its canonical use, -CI contributes an agentive or occupational meaning, as in sanat “art” sanatçı “artist” and kitap “book” kitapçı “bookseller/bookstore worker.” These -CI forms can further combine with the nominalizing suffix -lIK, yielding forms such as sanatçılık “artistry/being an artist” and kitapçılık “bookselling/bookstore work,” where -lIK contributes a meaning roughly related to a practice, profession, property, or domain.
