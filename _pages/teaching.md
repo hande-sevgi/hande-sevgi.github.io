@@ -133,7 +133,7 @@ Here is a complete list of the courses that I taught or supported as a graduate 
 .teaching-materials {
   display: inline-block;
   position: relative;
-  vertical-align: middle;
+  vertical-align: top;
 }
 
 .teaching-material-links {
