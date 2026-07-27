@@ -33,7 +33,7 @@ My dissertation "Manner Modification Across Modalities: Insights from Gesture, S
 
 At Harvard, I was affiliated with the [Meaning and Modality Lab](https://meaningandmodality.github.io/site/), where I also served as lab manager.
 
-Before joining Harvard, I completed my M.A. in Linguistics at Boğaziçi University. My thesis "The Impact of Age of Acquisition on Structure: A Study on Alignment in Turkish Sign Language", advised by [Kadir Gökgöz](https://linguistics.bogazici.edu.tr/kadir-gokgoz), with [Balkız Öztürk](https://linguistics.bogazici.edu.tr/balkiz-ozturk-basaran) and [Nihan Ketrez](https://nihanketrez.wordpress.com/) on the committee, investigated age-of-acquisition effects in Turkish Sign Language (TİD), focusing on complex structures such as classifiers and coordination. This work continues to inform my interest in the relationship between grammatical structure, acquisition, and modality.
+Before joining Harvard, I completed my M.A. in Linguistics at Boğaziçi University. My thesis "Effects of Age of Acquisition on Morphosyntactic Structures in Turkish Sign Language: Evidence from Classifiers", advised by [Kadir Gökgöz](https://linguistics.bogazici.edu.tr/kadir-gokgoz), with [Balkız Öztürk](https://linguistics.bogazici.edu.tr/balkiz-ozturk-basaran) and [Nihan Ketrez](https://nihanketrez.wordpress.com/) on the committee, investigated age-of-acquisition effects in Turkish Sign Language (TİD), focusing on complex structures such as classifiers and coordination. This work continues to inform my interest in the relationship between grammatical structure, acquisition, and modality.
 <p align="center">
   <img
     src="/assets/img/BU.png"
