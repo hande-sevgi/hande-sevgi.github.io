@@ -245,6 +245,16 @@ body[data-theme="dark"] .teaching-item.language-program,
 </div>
 
 <div class="teaching-item">
+  <div class="teaching-top">
+    <div class="teaching-course">Ling 98A: <em>Understanding Language through Sign Languages</em></div>
+    <div class="teaching-term">Fall 2022</div>
+  </div>
+  <div class="teaching-details">Harvard University · Junior Tutorial</div>
+  <span class="teaching-role">Instructor</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
+</div>
+
+<div class="teaching-item">
      <div class="teaching-top">
           <div class="teaching-course">Ling 241B: <em>Practicum</em></div>
           <div class="teaching-term">Spring 2024</div> </div> 
