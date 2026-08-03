@@ -1,28 +1,15 @@
-# Hi, I’m Hande Sevgi 👋
+# Hande Sevgi — Academic Website
 
-I’m a linguist specializing in **sign language linguistics, morphology, experimental semantics and pragmatics, and event structure**.
+Source code for my academic website:  
+https://hande-sevgi.github.io/
 
-My research examines how events and expressive meaning are represented across sign languages, spoken languages, and gesture. I’m particularly interested in what cross-linguistic and cross-modal patterns reveal about the architecture of grammar and the nature of human language.
+The site presents my research, publications, teaching, and curriculum vitae.
 
-## Research interests
+## Research areas
 
-* Sign language linguistics
-* Formal and experimental semantics
-* Morphology and event structure
-* Gesture and multimodal communication
-* Iconicity and compositionality
-* Language acquisition
+- Sign language linguistics
+- Formal and experimental semantics
+- Morphology and event structure
+- Gesture and multimodal communication
 
-## Background
-
-I received my Ph.D. in Linguistics from Harvard University, where I was affiliated with the Meaning and Modality Lab. Before Harvard, I completed my M.A. in Linguistics at Boğaziçi University.
-
-## Learn more
-
-🌐 [Academic website](https://hande-sevgi.github.io/)
-📚 [Research and publications](https://hande-sevgi.github.io/publications/)
-📄 [Curriculum vitae](https://hande-sevgi.github.io/cv/)
-
----
-
-*Exploring human language across modalities.*
+Built with Jekyll and the al-folio academic theme.
