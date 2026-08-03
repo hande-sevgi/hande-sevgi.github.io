@@ -1,8 +1,8 @@
 # Hi, I’m Hande Sevgi 👋
 
-I’m a linguist specializing in **sign language linguistics, semantics, morphology, and event structure**.
+I’m a linguist specializing in **sign language linguistics, morphology, experimental semantics and pragmatics, and event structure**.
 
-My research examines how events and expressive meaning are represented across signed languages, spoken languages, and gesture. I’m particularly interested in what cross-linguistic and cross-modal patterns reveal about the architecture of grammar and the nature of human language.
+My research examines how events and expressive meaning are represented across sign languages, spoken languages, and gesture. I’m particularly interested in what cross-linguistic and cross-modal patterns reveal about the architecture of grammar and the nature of human language.
 
 ## Research interests
 
@@ -16,8 +16,6 @@ My research examines how events and expressive meaning are represented across si
 ## Background
 
 I received my Ph.D. in Linguistics from Harvard University, where I was affiliated with the Meaning and Modality Lab. Before Harvard, I completed my M.A. in Linguistics at Boğaziçi University.
-
-My doctoral research investigated how manner is encoded and interpreted in sign language classifiers, spoken-language adverbials, and co-speech gesture.
 
 ## Learn more
 
