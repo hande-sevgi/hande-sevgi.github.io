@@ -63,6 +63,15 @@ permalink: /beyond/crafting/
 </div>
 
 ---
+## Post-graduation healing
+{: }
+
+Coming!
+
+[Back to projects](#projects)
+
+---
+---
 ## Perks of integrating your hobbies into your research
 {: #gif-or-jif}
 
