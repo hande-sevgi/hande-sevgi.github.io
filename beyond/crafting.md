@@ -36,7 +36,7 @@ permalink: /beyond/crafting/
 <div class="craft-grid">
   
   <a class="craft-card" href="#gif-or-jif">
-    <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/Stimuli/paper_M.gif" alt="Gifs all around"> 
+    <img src="https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/blob/main/materials/stimuli/paper_M.gif"> 
   </a>
 
   
