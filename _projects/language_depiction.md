@@ -11,7 +11,7 @@ How abstract does an element need to be to count as linguistic? By focusing on c
 
 You can access the study material:
 
-- View the reproducible research repository on GitHub [here](https://github.com/hande-sevgi/Ideophones_in_Turkish) [and here](https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture)
+- View the reproducible research repository on GitHub. Check [here for the ideophone study](https://github.com/hande-sevgi/Ideophones_in_Turkish) and [here for the gesture study](https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture)
 
 - [View the archived materials on OSF](https://osf.io/buftx/)
   
