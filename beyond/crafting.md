@@ -95,7 +95,7 @@ So for my experiments, I started creating GIFs from scratch (I still do not know
 
 My only complaint is that some people thought they were AI-generated. That broke my heart 🥲.
 
-They may look unprofessional, strange, or even ugly, but [they](https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/tree/main/Stimuli) are all my babies.
+They may look unprofessional, strange, or even ugly, but [they](https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/tree/main/materials/stimuli) are all my babies.
 
 [Back to projects](#projects)
 
