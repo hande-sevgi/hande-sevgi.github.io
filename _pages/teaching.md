@@ -252,6 +252,7 @@ body[data-theme="dark"] .teaching-item.language-program,
   <div class="teaching-details">Harvard University · Junior Tutorial</div>
   <span class="teaching-role">Instructor</span>
   <span class="teaching-level undergrad">Undergraduate</span>
+<span class="teaching-award">Student Recognition of Teaching</span>
 </div>
 
 <div class="teaching-item">
