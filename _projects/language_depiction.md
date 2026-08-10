@@ -9,4 +9,10 @@ related_publications: true
 
 How abstract does an element need to be to count as linguistic? By focusing on classifier constructions in sign languages, ideophones in Turkish, and highly depictive co-speech gestures in spoken English, I investigate how depiction contributes to meaning across languages and modalities. This line of work explores where linguistic structure ends, and depiction begins, and how languages systematically integrate visual and expressive resources into grammar.
 
+You can access the study material:
+
+- View the reproducible research repository on GitHub [here](https://github.com/hande-sevgi/Ideophones_in_Turkish) [and here](https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture)
+
+- [View the archived materials on OSF](https://osf.io/buftx/)
+  
 {% cite sevgi2026dissertation %} 
