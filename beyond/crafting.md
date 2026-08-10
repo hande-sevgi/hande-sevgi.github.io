@@ -36,10 +36,8 @@ permalink: /beyond/crafting/
 <div class="craft-grid">
   
   <a class="craft-card" href="#gif-or-jif">
-    <img src="https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/blob/main/materials/stimuli/paper_M.gif"> 
+    <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/blob/main/materials/stimuli/paper_M.gif"> 
   </a>
-
-  
   
   <a class="craft-card" href="#tiny-yellow-bag">
     <img src="/assets/img/IMG_1028.jpeg" alt="Tiny yellow bag">
@@ -83,7 +81,7 @@ So for my experiments, I started creating GIFs from scratch (I still do not know
 
 <div style="text-align: center;">
   <img
-    src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/Stimuli/paper_M.gif"
+    src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/blob/main/materials/stimuli/paper_M.gif"
     alt="Gifs or jifs"
     style="
       width: 100%;
