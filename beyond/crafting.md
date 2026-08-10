@@ -38,6 +38,8 @@ permalink: /beyond/crafting/
   <a class="craft-card" href="#gif-or-jif">
     <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/Stimuli/paper_M.gif" alt="Gifs all around"> 
   </a>
+
+  
   
   <a class="craft-card" href="#tiny-yellow-bag">
     <img src="/assets/img/IMG_1028.jpeg" alt="Tiny yellow bag">
