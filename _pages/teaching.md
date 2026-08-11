@@ -311,7 +311,7 @@ body[data-theme="dark"] .teaching-item.language-program,
     <div class="teaching-course">Ling 202: <em>Morphology</em></div>
     <div class="teaching-term">Spring 2019</div>
   </div>
-  <div class="teaching-details">Boğaziçi University · Instructor: Mine Nakippğlu</div>
+  <div class="teaching-details">Boğaziçi University · Instructor: Mine Nakipoğlu</div>
   <span class="teaching-role">Teaching Assistant</span>
   <span class="teaching-level undergrad">Undergraduate</span>
   <span class="teaching-tag">73 students</span>
