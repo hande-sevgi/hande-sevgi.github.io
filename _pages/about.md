@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Linguistics at Harvard University 
+subtitle: Linguist | PhD, Harvard University 
 
 profile:
   align: right
