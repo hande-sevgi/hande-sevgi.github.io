@@ -8,14 +8,7 @@ cv:
     linkedin_username: hande-sevgi-9398a375
 
   sections:
-
-    Academic Employment:
-      - company: Swarthmore College
-        location: Swarthmore, PA
-        position: Visiting Assistant Professor
-        start_date: 2026
-        end_date: Present
-
+  
     Education:
       - institution: Harvard University
         location: Cambridge, MA
@@ -101,6 +94,12 @@ cv:
         summary: "6(1)"
 
     Experience:
+      - company: Swarthmore College
+        location: Swarthmore, PA
+        position: Visiting Assistant Professor
+        start_date: 2026-08
+        end_date: Present
+        
       - company: Harvard University
         location: Cambridge, MA
         position: Doctoral Researcher
