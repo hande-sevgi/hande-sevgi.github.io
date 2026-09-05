@@ -10,9 +10,9 @@ cv:
   sections:
 
     Academic Employment:
-      - institution: Swarthmore College
+      - company: Swarthmore College
         location: Swarthmore, PA
-        area: Department of Linguistics
+        position: Visiting Assistant Professor
         start_date: 2026
         end_date: Present
 
