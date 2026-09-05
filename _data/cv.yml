@@ -8,15 +8,14 @@ cv:
     linkedin_username: hande-sevgi-9398a375
 
   sections:
-  
-   Academic Employment:
+
+  Academic Employment:
       - institution: Swarthmore College
-        location: Philadelphia, PA
+        location: Swarthmore, PA
         area: Department of Linguistics
         start_date: 2026
         end_date: Present
 
-        
     Education:
       - institution: Harvard University
         location: Cambridge, MA
