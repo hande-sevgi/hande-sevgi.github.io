@@ -2,7 +2,7 @@ cv:
   name: Hande Sevgi
   label: Ph.D. in Linguistics
   email: handesevgi00@gmail.com
-  location: Cambridge, MA
+  location: Philadelphia, PA
   social_networks:
     github_username: hande-sevgi
     scholar_userid: vQjR-WcAAAAJ
@@ -10,6 +10,13 @@ cv:
 
   sections:
   
+    Academic Emplyment:
+      - institution: Swarthmore College
+        location: Philadelphia, PA
+        area: Department of Linguistics
+        start_date: 2026
+        end_date: Present
+    
     Education:
       - institution: Harvard University
         location: Cambridge, MA
