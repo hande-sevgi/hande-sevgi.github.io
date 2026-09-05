@@ -21,7 +21,7 @@ Here I share some of the things I make in my leisure time, along with their fini
     <p>Recipes, experiments, and favorite dishes.</p>
   </a>
 
-<a class="beyond-card" href="/assets/pdf/Sevgi_Resume_Master.pdf">
+<a class="beyond-card" href="/assets/pdf/Sevgi_Resume_Master_Aug.pdf">
     <h2>Resume</h2>
     <p>View or download my general resume.</p>
   </a>
