@@ -9,6 +9,14 @@ cv:
 
   sections:
   
+   Academic Employment:
+      - institution: Swarthmore College
+        location: Philadelphia, PA
+        area: Department of Linguistics
+        start_date: 2026
+        end_date: Present
+
+        
     Education:
       - institution: Harvard University
         location: Cambridge, MA
@@ -92,13 +100,6 @@ cv:
         publisher: "Proceedings of the Workshop on Turkic and Languages in Contact with Turkic"
         releaseDate: 2022
         summary: "6(1)"
-      
-    Academic Employment:
-      - institution: Swarthmore College
-        location: Philadelphia, PA
-        area: Department of Linguistics
-        start_date: 2026
-        end_date: Present
 
     Experience:
       - company: Harvard University
