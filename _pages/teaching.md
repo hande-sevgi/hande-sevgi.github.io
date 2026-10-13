@@ -219,6 +219,28 @@ body[data-theme="dark"] .teaching-item.language-program,
 </style>
 
 <div class="teaching-list">
+<div class="teaching-item">
+  <div class="teaching-top">
+    <div class="teaching-course">Ling 001: <em>Introduction to
+Language and Linguistics</em></div>
+    <div class="teaching-term">Fall 2026</div>
+  </div>
+  <div class="teaching-details">Swarthmore College</div>
+  <span class="teaching-role">Instructor</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
+</div>
+
+<div class="teaching-list">
+<div class="teaching-item">
+  <div class="teaching-top">
+    <div class="teaching-course">Ling 025: <em>Sociolinguistics:
+ Language, Culture, and Society</em></div>
+    <div class="teaching-term">Fall 2026</div>
+  </div>
+  <div class="teaching-details">Swarthmore College</div>
+  <span class="teaching-role">Instructor</span>
+  <span class="teaching-level undergrad">Undergraduate</span>
+</div>
 
 <div class="teaching-item">
   <div class="teaching-top">
