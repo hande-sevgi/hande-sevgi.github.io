@@ -230,7 +230,6 @@ Language and Linguistics</em></div>
   <span class="teaching-level undergrad">Undergraduate</span>
 </div>
 
-<div class="teaching-list">
 <div class="teaching-item">
   <div class="teaching-top">
     <div class="teaching-course">Ling 025: <em>Sociolinguistics:
