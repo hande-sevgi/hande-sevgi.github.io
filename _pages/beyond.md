@@ -7,7 +7,7 @@ nav_order: 7
 description:
 ---
 
-Here I share some of the things I make in my leisure time, along with their finished forms. Most of them were created during my PhD years, so each one carries something from that time: a little sorrow, a few tears, some sweat, and the happiness of finding free time to enjoy myself, distract myself, and make something by hand.
+Here you can find my resume and some of the things I make in my leisure time, along with their finished forms. Most of them were created during my PhD years, so each one carries something from that time: a little sorrow, a few tears, some sweat, and the happiness of finding free time to enjoy myself, distract myself, and make something by hand.
 
 <div class="beyond-grid">
 
@@ -15,12 +15,7 @@ Here I share some of the things I make in my leisure time, along with their fini
     <h2>Crafty times</h2>
     <p>Projects, patterns, and things I have made.</p>
   </a>
-
-  <a class="beyond-card" href="/beyond/cooking-baking/">
-    <h2>Cooking & Baking</h2>
-    <p>Recipes, experiments, and favorite dishes.</p>
-  </a>
-
+  
 <a class="beyond-card" href="/assets/pdf/Sevgi_Resume_Master_Aug.pdf">
     <h2>Resume</h2>
     <p>View or download my general resume.</p>
