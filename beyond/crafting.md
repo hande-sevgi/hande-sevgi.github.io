@@ -33,7 +33,10 @@ permalink: /beyond/crafting/
 }
 </style>
 
-<div class="craft-grid">
+<section id="projects">
+  <h2>Projects</h2>
+  <!-- Project content -->
+  <div class="craft-grid">
   
   <a class="craft-card" href="#gif-or-jif">
     <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/materials/stimuli/paper_M.gif"> 
@@ -55,12 +58,13 @@ permalink: /beyond/crafting/
     <img src="/assets/img/IMG_1031.jpeg" alt="Tiny house">
   </a>
 
-
    <a class="craft-card" href="#in-progress">
     <img src="/assets/img/Cartoon.png" alt="More in progress!">
   </a>
   
 </div>
+</section>
+
 
 ---
 ## Post-graduation healing
@@ -72,7 +76,9 @@ Still, I am aware that the most important thing is to enjoy my happy days. The b
 
 Each bead represents my patience with life, with slow processes, and with myself. Some represent happy moments, others perhaps the days when patience was not exactly my strongest quality. They come together to create something meaningful, just like the little moments of life they represent. Maybe healing works the same way. A little patience, a little happiness, and a lot of time. And perhaps we do not need to be completely healed to enjoy what we have created along the way.
 
-[Back to projects](#projects)
+Photos coming soon!
+
+<a href="#projects">Back to projects</a>
 
 ---
 ## Perks of integrating your hobbies into your research
@@ -100,7 +106,7 @@ My only complaint is that some people thought they were AI-generated. That broke
 
 They may look unprofessional, strange, or even ugly, but [they](https://github.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/tree/main/materials/stimuli) are all my babies.
 
-[Back to projects](#projects)
+<a href="#projects">Back to projects</a>
 
 ---
 
@@ -122,7 +128,7 @@ They may look unprofessional, strange, or even ugly, but [they](https://github.c
 <p>Every stitch on this tiny yellow bag is the result of doing and undoing, starting over, feeling dissatisfied, and wanting to give up. Is it flawless now? No. Is it exactly what I had in mind? No. Could I have done better? Probably not, at least not with the skills and patience I had at that moment. Maybe part of growing up is learning to accept ourselves as we are instead of constantly measuring ourselves against impossible standards. It would be nice to understand where these feelings come from, but the current state of my mental health is not particularly helpful in answering that question. For now, perhaps it is enough to accept that something can be imperfect and still be worth making.</p>
 *Sending my love to my mom, who taught me these embroidery techniques many years ago.*
 
-[Back to projects](#projects)
+<a href="#projects">Back to projects</a>
 
 ---
 ## **What is art**
@@ -144,7 +150,7 @@ They may look unprofessional, strange, or even ugly, but [they](https://github.c
 
 <p>The same is true for paint-by-number kits. No need for creativity in choosing the colors. The decisions have already been made. Yet the sheer truth is that I enjoy the process immensely. I like filling in the spaces, watching the image slowly emerge, and allowing myself to focus on something simple without using too many brain cells or too much glucose. I am still not sure whether I believe in art for art's sake or art for people. What I do know is that, at this point in my life, art is for happiness. Maybe creating something does not have to be original to be meaningful. Maybe it only needs to make us want to keep creating.</p>
 
-[Back to projects](#projects)
+<a href="#projects">Back to projects</a>
 
 ---
 ## **Building blocks**
@@ -168,7 +174,7 @@ I felt not only crafty, but also a little techy. You can see my little lamp floo
 
 I wonder whether everyone feels this way sometimes. No outcome can feel like no work. I know that is not true, but I still struggle with it. There are many lessons I am still learning, about patience, process, failure, repair, and the quiet value of things that take time to become visible.
 
-[Back to projects](#projects)
+<a href="#projects">Back to projects</a>
 
 ---
 ## **Motivating the motif**
@@ -189,11 +195,6 @@ I wonder whether everyone feels this way sometimes. No outcome can feel like no 
 </div>
 
 <p>It sounds a little like language. Sounds become words, words become sentences, and small repeated choices begin to make something larger. Some patterns are regular, some shift slightly. The pattern is not always obvious while it is being made. Sometimes it only appears when one steps back and looks at the whole thing. What looks like a series of tiny loops may turn out to have been a structure all along.</p>
-[Back to projects](#projects)
-
----
-## **In progress**
-{: #in-progress}
-[Back to projects](#projects)
+<a href="#projects">Back to projects</a>
 
 ---
