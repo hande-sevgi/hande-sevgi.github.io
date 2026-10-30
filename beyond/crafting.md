@@ -66,11 +66,14 @@ permalink: /beyond/crafting/
 ## Post-graduation healing
 {: }
 
-Coming!
+Post-graduation healing is a slow process. Maybe we never ever get completely healed, but we are all beautiful with our wounds, aren't we? My post-graduation healing, luckily, continues alongside with my first-real-job-ever period, which makes healing secondary and surviving more important. I am more than lucky to have landed a job I have been dreaming of (liberal arts, college, teaching linguistics, being with students, and being able to continue my research, among others). But the uncertainties of academia are the biggest obstacle to enjoying what might be the happiest days of my life. I spent so many years working towards this moment, and now that I am here, I am still learning how to enjoy it.
+
+Still, I am aware that the most important thing is to enjoy my happy days. The beads have been helping me to get used to have leisure time without feeling guilty about not writing my dissertation. It turns out that having free time and knowing what to do with it are two different things. I am still working on this project, which I am planning to extend by adding paintings and drawings to the beads, because why not!
+
+Each bead represents my patience with life, with slow processes, and with myself. Some represent happy moments, others perhaps the days when patience was not exactly my strongest quality. They come together to create something meaningful, just like the little moments of life they represent. Maybe healing works the same way. A little patience, a little happiness, and a lot of time. And perhaps we do not need to be completely healed to enjoy what we have created along the way.
 
 [Back to projects](#projects)
 
----
 ---
 ## Perks of integrating your hobbies into your research
 {: #gif-or-jif}
