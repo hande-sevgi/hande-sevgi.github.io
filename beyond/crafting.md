@@ -39,8 +39,8 @@ permalink: /beyond/crafting/
   <div class="craft-grid">
 
 <a class="craft-card" href="#beads">
-    <img src="assets/img/IMG_1495.jpeg"> 
-  </a>
+  <img src="/assets/img/IMG_1495.jpeg" alt="Beads">
+</a>
   
   <a class="craft-card" href="#gif-or-jif">
     <img src="https://raw.githubusercontent.com/hande-sevgi/Path-and-Manner-in-Co-speech-gesture/main/materials/stimuli/paper_M.gif"> 
