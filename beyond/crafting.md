@@ -80,8 +80,8 @@ Still, I am aware that the most important thing is to enjoy my happy days. The b
 
 <div style="text-align: center;">
   <img
-    src="https://raw.githubusercontent.com/hande-sevgi/assets/img/IMG_1495.jpg">
-    alt="Mighty beads"
+    src="https://raw.githubusercontent.com/hande-sevgi/assets/img/IMG_1495.jpeg">
+    alt="beads"
     style="
       width: 100%;
       max-width: 360px;
