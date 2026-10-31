@@ -80,7 +80,7 @@ Still, I am aware that the most important thing is to enjoy my happy days. The b
 
 <div style="text-align: center;">
   <img
-    src="/assets/img/IMG_1495.jpeg" alt="Beads">
+    src="/assets/img/IMG_1495.jpeg" alt="Beads"
     style="
       width: 100%;
       max-width: 360px;
