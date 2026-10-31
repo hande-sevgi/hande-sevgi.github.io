@@ -39,7 +39,7 @@ permalink: /beyond/crafting/
   <div class="craft-grid">
 
 <a class="craft-card" href="#beads">
-    <img src="https://raw.githubusercontent.com/hande-sevgi.github.io/blob/main/assets/img/IMG_1495.jpeg/"> 
+    <img src="https://raw.githubusercontent.com/ha de-sevgi/assets/img/IMG_1495.jpeg"> 
   </a>
   
   <a class="craft-card" href="#gif-or-jif">
