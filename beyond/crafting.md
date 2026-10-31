@@ -86,7 +86,7 @@ Still, I am aware that the most important thing is to enjoy my happy days. The b
       max-width: 360px;
       aspect-ratio: 1 / 1;
       object-fit: cover;
-      border-radius: 20%;
+      border-radius: 10%;
     "
   >
 </div>
