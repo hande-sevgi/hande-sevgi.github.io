@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Irrealis Readings in Turkish
-description: Morphology, morphosemantics, meaning, Turkish
+title: Random ideas
+description: Morphology, morphosemantics, meaning, Turkish, Turkish Sign Language
 importance: 8
 img:
 category: random ideas
 related_publications: false
 ---
+**Irrealis?**
 
 Turkish makes extensive use of derivational morphology, and the suffix -CI is among its most productive nominalizers. In its canonical use, -CI contributes an agentive or occupational meaning, as in sanat “art” sanatçı “artist” and kitap “book” kitapçı “bookseller/bookstore worker.” These -CI forms can further combine with the nominalizing suffix -lIK, yielding forms such as sanatçılık “artistry/being an artist” and kitapçılık “bookselling/bookstore work,” where -lIK contributes a meaning roughly related to a practice, profession, property, or domain.
 
@@ -17,3 +18,7 @@ This project investigates the relationship between these two uses of -CI-lIK in 
 At the same time, forms such as evcilik show that the pattern is not limited to nouns that independently denote agents. This raises further questions about decomposability, lexicalization, and the boundary between derivation and constructional meaning. For example, while ev “house” can combine with related morphology in forms such as evci and evcilik, the meanings of these forms are not always predictable from their parts. This suggests that -CI-lIK may involve both productive morphology and construction-specific interpretation.
 
 By examining the distribution and interpretation of Turkish -CI-lIK formations, this study aims to clarify how agentive morphology can give rise to irrealis or pretend-play meanings, and what this reveals about the interaction between derivation, lexical semantics, and constructional meaning in Turkish.
+
+**Unique to sign languages? I don’t agree**
+
+This is just a superficial thought at the moment and I am using this page as my notebook. Sign languages are argued to be iconic and depictive in many ways. Consider the repetitive and/or modulated movements to indicate emphasis. In ASL among other sig languages, the adverb ‘very’ is not observed as a separate sequential element but the meaning is encoded by the properties of the movement. This leads to the undesired conclusion that sign languages use these “emotive” movements so they do include extra linguistic parts. Let’s look at Turkish. At the abstract level the same strategy applies. Turkish likes emphatic structures where we observe partial reduplication. To call something very white you can say either “çok sarı” or “sapsarı” where “sarı” means yellow. The examples explain themselves, I believe. 
