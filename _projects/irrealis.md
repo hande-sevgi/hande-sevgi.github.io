@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Random ideas
-description: Morphology, morphosemantics, meaning, Turkish, Turkish Sign Language
+title: "Random ideas"
+description: "Morphology, morphosemantics, meaning, Turkish, Turkish Sign Language"
 importance: 8
-img:
-category: random ideas
+img: ""
+category: "random ideas"
 related_publications: false
 ---
 **Irrealis?**
